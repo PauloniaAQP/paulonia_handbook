@@ -5,6 +5,10 @@ quote:
              as long as the box does what they need done.
     author: Jef Raskin
     authorPosition: about Human Computer Interfaces
+pagination:
+    previous:
+        link: ../entrenamiento
+        name: Entrenamiento
 ---
 
 ## Etapas de Diseño

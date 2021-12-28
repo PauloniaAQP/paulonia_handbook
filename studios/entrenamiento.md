@@ -4,6 +4,13 @@ quote:
     content: Estar rodeada de grandes personas y profesionales me dio la seguridad e inspiración para mejorar y sentirme libre de aportar a los procesos de la empresa
     author: Gabriela Rojas
     authorPosition: Diseñadora UI
+pagination:
+    next:
+        link: ../procesos
+        name: Procesos
+    previous:
+        link: ../roles
+        name: Roles
 ---
 
 La fase de entrenamiento no debe presentarse como un tiempo para aprender de

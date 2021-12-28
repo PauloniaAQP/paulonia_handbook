@@ -1,5 +1,12 @@
 ---
 title: Miembros, roles y funciones
+pagination:
+    next:
+        link: ../entrenamiento
+        name: Entrenamiento
+    previous:
+        link: ../organizacion
+        name: Organización
 ---
 
 ## Funciones

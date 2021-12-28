@@ -1,6 +1,9 @@
 ---
 title: Manual Studio
-lead: false
+pagination:
+    next:
+        link: organizacion
+        name: Organización
 ---
 
 La gestión del área de Paulonia Studio, está descrita y regida por el actual manual.
