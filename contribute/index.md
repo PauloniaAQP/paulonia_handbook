@@ -27,12 +27,15 @@ Antes de comenzar a detallar cualquier parte del handbook es necesario tener en 
 Para construir este Handbook utilizamos tres herramientas principales:
 
 - **Markdown:** Es el principal formato utilizado para escribir los documentos. Este documento está escrito en Markdown! Pará empezar, es necesario saber la [sintaxis de Markdown](https://www.markdownguide.org/cheat-sheet/). 
-- **Github:** Herramienta utilizada para para versionar y revisar los documentos del Handbook. Aquí es donde suben nuevos documentos o cambios a los ya existentes y se empieza una discusión de los mismos. 
+- **Github:** Herramienta utilizada para versionar y revisar los documentos del Handbook. Aquí es donde se suben nuevos documentos o cambios a los ya existentes y se empieza una discusión de los mismos. 
 - **Jekyll:** Es el [framework](https://jekyllrb.com/) utilizado para generar la página web del Handbook a partir de los documentos en Markdown. 
 
 ## Estructura
 
 El proyecto está dividido en dos repositorios:
 
-- [Documentos del Handbook](https://github.com/PauloniaAQP/paulonia_handbook): En este repositorio están todos los documentos del handbook. Aquí las carpetas deben ser vistas como secciones en el handbook, pueden haber sub-secciones (sub-carpetas) y cada sección debe tener por lo menos un documento. Las secciones son las que aparecen en el menú derecho. Para más información leer el README del repositorio.
+- [Documentos del Handbook](https://github.com/PauloniaAQP/paulonia_handbook): En este repositorio están todos los documentos del handbook. Aquí las carpetas deben ser vistas como secciones en el handbook, pueden haber sub-secciones (sub-carpetas) y cada sección debe tener por lo menos un documento. Las secciones son las que aparecen en el menú derecho.
 - [Proyecto en Jekyll](https://github.com/PauloniaAQP/handbook-theme): El proyecto es un fork de un tema opensource. El proyecto tiene un submódulo apuntando al repositorio de los documentos del handbook. El proyecto ya se encuentra configurado para poder compilar la página con el submódulo. Para más info leer el README del repositorio y para más info para contribuir a este tema, revisar la [Documentación de Jekyll](https://jekyllrb.com/docs/).
+
+
+Continue con el siguiente documento de un pequeño [tutorial de cómo crear un documento](./howToDocument).

@@ -28,7 +28,7 @@ En la carpeta principal del repositorio ejecutar el siguiente comando para compi
 jekyll serve
 ```
 
-Corra a su [localhost](jekyll serve) y verifique que la página funciona.
+Corra a su [localhost](http://127.0.0.1:4000/) y verifique que la página funciona.
 
 Los documentos se colocan en la carpeta `paulonia_handbook`, este es un [submódulo](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Los submódulos actuan como repositorios dentro de otros repositorios, es decir si haces cambios dentro de la carpeta `paulonia_handbook` y haces commits de esos cambios, todo se va a subir al repositorio de `paulonia_handbook`; de la misma manera, si haces cambios fuera de `paulonia_handbook`, todo se va a subir al repositorio de `handbook-theme`.
 
@@ -38,7 +38,7 @@ Si sólo quiere crear un documento no tiene que hacer cambios fuera de `paulonia
 git branch -b <nombre-de-su-rama>
 ```
 
-El nombre lo eliges tú. Si haces cambios en la rama main, probablemente no puedas subir esos cambios al repositorio. Con esto ya estaría listo para crear su documento.
+El nombre lo eliges tú. Si haces cambios en la rama `main`, probablemente no puedas subir esos cambios al repositorio. Con esto ya estaría listo para crear su documento.
 
 
 ## Creación
@@ -69,7 +69,7 @@ La única variable obligatoria es `title`, que es necesaria para renderizar el t
 
 ### Escribir el documento
 
-Una vez colocados los parámetros, podremos ver nuestro documento renderizado en la página. Si ya haz ejecutado el comando `jekyll serve`, entonces sólo basta con que vayas a la url de tu documento. Ex. `http://127.0.0.1:4000/paulonia_handbook/development/myFirstDoc`. Mientras escribes tu documento, puedes ir guardando los cambios y refrescando la página para ver el renderizado.
+Una vez colocados los parámetros, ya podemos ver nuestro documento renderizado en la página. Si ya haz ejecutado el comando `jekyll serve`, entonces sólo basta con que vayas a la url de tu documento. Ex. `http://127.0.0.1:4000/paulonia_handbook/development/myFirstDoc`. Mientras escribes tu documento, puedes ir guardando los cambios y refrescando la página para ver el renderizado.
 
 El contenido del documento es libre y puedes utilizar markdown para escribir cosas simples y HTML para agregar cosas más complejas y estilizadas. Además es necesario saber los recursos que nos probee jekyll y el tema para la escritura de un documento:
 
@@ -79,14 +79,14 @@ El contenido del documento es libre y puedes utilizar markdown para escribir cos
 
 ## Creación del Pull Request
 
-Una vez terminado el documento, tienes que agregarlos a un commit con los siguientes comandos (recuerda ejecutarlos dentro de `paulonia_handbook`)
+Una vez terminado el documento, tienes que agregar tus cambios a un commit con los siguientes comandos (recuerda ejecutarlos dentro de `paulonia_handbook`)
 
 ```
 > git add --all
 > git commit -m '<mensaje-del-commit>'
 ```
 
-Asegurate de que el mensaje del commit describa a detalle los cambios que se están agregando. Recuerda escribir este mensaje en Inglés. Luego sube tus cambios al repositorio:
+Asegurate de que el mensaje del commit describa a detalle los cambios que se están agregando. **Recuerda escribir este mensaje en Inglés.** Luego sube tus cambios al repositorio:
 
 ```
 git push -u origin <nombre-de-su-rama>

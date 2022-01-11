@@ -13,9 +13,9 @@ pagination:
         name: Constantes
 ---
 
-Este documento sirve de ejemplo para mostrar las funcionalidades de Jekyll y algunas sintaxis de markdown y HTML. Puedes ver este documento en [GitHub]().
+Este documento sirve de ejemplo para mostrar las funcionalidades de Jekyll y algunas sintaxis de markdown y HTML. Puedes ver este documento en [GitHub](https://github.com/PauloniaAQP/paulonia_handbook/blob/main/contribute/example.md).
 
-La tabla que se forma arriba son los [parámetros del documentos](../parameters). 
+La tabla que se forma arriba son los [parámetros del documentos](../parameters), puedes ver el raw del documento [aquí](https://raw.githubusercontent.com/PauloniaAQP/paulonia_handbook/main/contribute/example.md)
 
 ---
 
