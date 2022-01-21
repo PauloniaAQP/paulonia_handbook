@@ -17,7 +17,7 @@ Usamos la herramienta Jira para la administración de tareas en Paulonia. Todas 
 
 ### Slack
 
-Por otro lado, utilizamos la herramienta Slack para la comunicación en equipo dentro de Paulonia. En Slack la comunicación del equipo de flutter se hará por el canal 'flutter'. En él podremos hacer preguntas relacionadas con flutter, o preguntar por ayuda. Es importante que usemos este canal para procurar que todos en el equipo aprendamos.
+Por otro lado, utilizamos la herramienta Slack para la comunicación en equipo dentro de Paulonia. En Slack la comunicación del equipo de Flutter se hará por el canal 'flutter'. En él podremos hacer preguntas relacionadas con Flutter, o preguntar por ayuda. Es importante que usemos este canal para procurar que todos en el equipo aprendamos.
 
 Adicionalmente, en este canal se podrá también dar inicio a nuevas ideas para implementar dentro del proceso de desarrollo.
 

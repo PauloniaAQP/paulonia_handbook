@@ -32,7 +32,7 @@ Para el caso de Facebook, consulta con el project lead de backend, puede que nec
 
 **¿Tengo algunas preguntas sobre una interfaz que tengo que implementar, quien puede resolver mis dudas?**
 
-Si el diseño fue hecho por Paulonia Studios, pregunta directamente en el canal de Slack de diseño del proyecto o deja un comentario en Figma etiquetando al encargado de diseño.
+Si el diseño fue hecho por Paulonia Studio, pregunta directamente en el canal de Slack de diseño del proyecto o deja un comentario en Figma etiquetando al encargado de diseño.
 
 **¿No encuentro la funcionalidad en backend para crear la lógica de una interfaz, con quien consulto esto?**
 

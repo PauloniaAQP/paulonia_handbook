@@ -11,12 +11,12 @@ En esta sección explicamos los diferentes roles manejados dentro de esta área.
 
 ### Team lead
 
-Persona encargada del área de desarrollo en flutter. Tiene las siguientes **responsabilidades**:
+Persona encargada del área de desarrollo en Flutter. Tiene las siguientes **responsabilidades**:
 
 - Asigna los roles de cada miembro del equipo de backend.
 - Se encarga de que todo el equipo siga el presentado manual.
 - Introducción de nuevas tecnologías y tendencias al proceso de desarrollo.
-- Organizar eventos y/o reuniones dentro del área de desarrollo en flutter.
+- Organizar eventos y/o reuniones dentro del área de desarrollo en Flutter.
 - Documentar y mejorar los procesos de esta área.
 - Fomentar la exposición de esta área.
 
@@ -56,8 +56,8 @@ Para entrar en esta categoría debe tener los siguientes **conocimientos**:
 - Colecciones de dart (List, Set, Maps and Queues).
 - Bases de la programación asíncrona en dart (async, await and futures).
 - Diferencias entre stateful y stateless widgets y cuando usarlos.
-- Que es el BuildContext
-- Como agregar paquetes.
+- Qué es el BuildContext
+- Cómo agregar paquetes.
 - Los widgets más básicos (Scaffold, Row, Columns, Containers ...).
 - Sistemas de control de versiones (git y github).
 
@@ -72,15 +72,15 @@ Puede realizar lo que un desarrollador junior y las siguientes **tareas**:
 Para entrar en esta categoría debe tener los siguientes **conocimientos**:
 
 - Conocer lo básico de los manejadores de estados usados en la empresa (Getx, BLoC)
-- Como funcionan los repositorios o controladores con la lógica de negocio.
-- Routing en flutter.
-- Un buen conocimiento de los widgets de flutter.
-- Animaciones en flutter.
-- Las bases del uso de streams en flutter.
+- Cómo funcionan los repositorios o controladores con la lógica de negocio.
+- Routing en Flutter.
+- Un buen conocimiento de los widgets de Flutter.
+- Animaciones en Flutter.
+- Las bases del uso de streams en Flutter.
 
 ### Desarrollador senior
 
-Puede desarrollador lo que un mid-senior y las siguientes **tareas**:
+Puede realizar lo que un mid-senior y las siguientes **tareas**:
 
 - Crear repositorios y/o controladores con la lógica de negocio.
 - Crear la estructura de un proyecto.
@@ -94,4 +94,4 @@ Para entrar a esta categoría debe tener los siguientes **conocimientos**
 
 - Programación asíncrona en dar avanzada (streams, isolates, event loops).
 - Conocer sobre el funcionamiento del backend (Firebase services).
-- Conocer la mayoría de widgets en flutter.
+- Conocer la mayoría de widgets en Flutter.
