@@ -1,5 +1,10 @@
 ---
 title: Recien llegados
+
+pagination:
+  previous:
+    link: ../herramientas
+    name: Herramientas
 ---
 
 En esta sección, responderemos algunas preguntas comunes que puede tener como nuevo miembro del equipo de desarrollo front-end.

@@ -5,6 +5,9 @@ pagination:
   next:
     link: ../herramientas
     name: Herramientas
+  previous:
+    link: ../index
+    name: Manual Flutter
 ---
 
 En esta sección explicamos los diferentes roles manejados dentro de esta área. Nótese que los roles descritos no son excluyentes e.g. Un desarrollador puede ser un desarrollador senior, y al mismo tiempo ser team lead y project lead.

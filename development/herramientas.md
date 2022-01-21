@@ -5,6 +5,9 @@ pagination:
   next:
     link: ../newcomers
     name: Recien llegados
+  previous:
+    link: ../roles
+    name: Roles
 ---
 
 ## Herramientas
