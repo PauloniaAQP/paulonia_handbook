@@ -1,4 +1,7 @@
-﻿# Área Comercial
+---
+title: Área comercial
+lead: true
+---
 
 ## Introducción
 Esta area fue creada para generar nuevos prospectos y llevarlos por un proceso hasta que se vuelvan clientes.
