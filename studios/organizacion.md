@@ -1,7 +1,7 @@
 ---
 title: Organización
 quote:
-    content: 'Consigue la mejor: versión de ti mismo'
+    content: 'Consigue la mejor versión de ti mismo'
     author: Jhunior Chavez
     authorPosition: UX Designer (Paulonia Co-founder)
 pagination:
