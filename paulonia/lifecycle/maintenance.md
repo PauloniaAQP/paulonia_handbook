@@ -9,20 +9,20 @@ pagination:
         name: Ciclo de vida
 ---
 
-La fase de mantenimiento compete netamente al proceso de cambiar, modificar o actualizar un proyecto, bajo el principio de siempre atender la necesidad de los usuarios o conservar la estabilidad del sistema. Cabe recalcar que este proceso **inicia luego del despliegue en el mercado del proyecto** (haya sido desplegado por Paulonia o no), pues es aquí donde se presentarán problemas o errores, o se pretende mejorar el rendimiento y desempeño del proyecto, entre otros procesos.
+La fase de mantenimiento comprende únicamente al proceso de cambiar, modificar o actualizar un proyecto, bajo el principio de siempre atender la necesidad de los usuarios o conservar la estabilidad del sistema. Cabe recalcar que este proceso **inicia luego del despliegue en el mercado del proyecto** (haya sido realizado por Paulonia o no), pues es aquí donde se presentarán problemas o errores, o se pretende mejorar el rendimiento y desempeño del proyecto, entre otros procesos.
 
 ## Proceso
 Si se pregunta como dar mantenimiento a su aplicación, está en el lugar indicado. En esta sección lo guiaremos a través los pasos o procesos que usted y su aplicación pasarán a lo largo del mantenimiento.
 
 
-|![General Process](../images/MaintenanceProcess.png "Maintenance process")|
+|![General Process](../../../images/MaintenanceProcess.png "Maintenance process")|
 |:--:|
 |*Proceso general de mantenimiento*|
 
 
 #### Antes de iniciar
 Previo a iniciar esta fase, necesita tener conocimientos de los siguientes puntos
-+ Paulonia le proporcionará un límite de horas por cada mes ([BOLSA](../frequestions/#%C2%BFqu%C3%A9-es-una-bolsa) desde ahora), hasta finalizar su contrato. *Por ejemplo 20 horas al mes, por 5 meses*
++ Usted (el cliente) y Paulonia determinarán un límite de horas por cada mes ([BOLSA](../frequestions/#%C2%BFqu%C3%A9-es-una-bolsa) desde ahora) destinada a la atención de solicitudes de mantenimiento, hasta finalizar su contrato. *Por ejemplo 20 horas al mes, por 5 meses*
     + Las horas invertidas en mantener su aplicación serán facturadas a final de cada mes
     + Si se llegara a exceder el límite de esta [BOLSA](../frequestions/#%C2%BFqu%C3%A9-es-una-bolsa) , esto se verá reflejado en su factura de cada mes. *¡Tenga cuidado!*
 + Se aconseja que predisponga de tiempo durante y después de una solicitud de mantenimiento, dado que en cualquier paso del proceso un encargado de Paulonia puede comunicarse con usted o su equipo.
@@ -56,6 +56,7 @@ Una vez identificado, clasificado y solicitado el evento, este tendrá que pasar
 Este proceso de análisis y determinación de que evento será atendido puede ser realizado mediante dos estratégias
 1. **Basada en la experiencia del revisor de Paulonia**: El revisor puede estimar la urgencia y costo de tiempo del evento al leer el reporte.
 2. **Basado en pruebas o réplicas**: El revisor necesita iniciar con pequeñas pruebas o réplicas que pudo causar el evento, para determinar el costo de tiempo.
+3. **Basado en el criterio del cliente**: Usted (el cliente) puede opinar, indicar y priorizar bajo supuestos, necesidades o experiencia, los eventos a atenderse con mayor urgencia.
 
 Una vez determinada la urgencia y costo de tiempo, se deriva a un encargado de área el mismo día y hora de la aprobación de la resolución del evento. Estas áreas pueden incluir: a) diseño; b) desarrollo frontend; c) desarrollo backend o; c) administración de tiendas.  
 
@@ -64,7 +65,7 @@ Una vez determinada la urgencia y costo de tiempo, se deriva a un encargado de �
 [¿Tiene preguntas?](../frequestions/#an%C3%A1lisis)
 
 ##### 3. Diseño y/o implementación
-Si el reporte de un evento ha sido analizado y aprobado para su resolución, ¡en hora buena, tu evento pronto será resuelta!
+Si el reporte de un evento ha sido analizado y aprobado para su resolución, ¡en hora buena, tu evento pronto será resuelto!
 
 Recuerde que existen varias áreas en Paulonia, y un evento a atender puede demandar la atención de una o todas ellas, y esto determinará que se extienda o contraiga el tiempo de entrega. Así mismo, recuerde que un evento a resolver puede desencadenar más eventos fortuitos, por lo que es de vital importancia que predisponga de tiempo para entablar una conversación con el encargado de resolver su evento.
 
@@ -83,7 +84,7 @@ Por ejemplo, el Paulonia Development [TODO] se realiza un control de calidad de 
 ##### 5. Entrega y despliegue
 ¡Todo está listo!
 
-+ Si los cambios demandaran la generación de una nueva versión y APK, las horas gastadas para generar su Release también se factura.
-+ Si los cambios demandaran la actualización en tiendas, se coordinará con el área de Administración de tiendas para la actualización de contenido multimedia de cada tienda. Así mismo este proceso se hará bajo los acuerdos especificados en [TODO]
++ Si los cambios demandan la generación de una nueva versión y APK, las horas destinadas a ello también se facturarán.
++ Si los cambios demandan la actualización en tiendas, se coordinará con el área de Administración de tiendas para la actualización de contenido multimedia de cada tienda. Así mismo este proceso se hará bajo los acuerdos especificados en [TODO]
 
 [¿Tiene preguntas?](../frequestions/#entrega-y-despliegue)
