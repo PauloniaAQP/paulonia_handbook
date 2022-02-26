@@ -28,12 +28,13 @@ Cada solicitud de mantenimiento puede nacer a raíz de:
 
 #### ¿Qué es SENTRY?
 SENTRY es un servicio integrado a cada aplicación donde llegan reportes de errores o comportamientos anómalos, estos reportes se convierten en nuevas solicitudes de mantenimiento. Estos errores pueden ser visibles o no ante los usuarios, lo que significa que es posible detectar problemas internos o de lógica de cada aplicación. Este servicio está totalmente automatizado.
+
 #### ¿Qué es una BOLSA?
 Cada mes durante la vigencia del contrato de mantenimiento, se generan solicitudes de mantenimiento. Estas solicitudes pasan a un contenedor (MRC). Este contenedor almacena todos las solicitudes, pero no significa que todas estas vayan a ser atendidas y resueltas en el mismo mes que hayan sido reportados.
 
 Todas las solicitudes de mantenimiento del MRC tienen que pasar por un proceso de análisis, en el cual el personal de Paulonia determina el nivel crítico y urgencia de cada uno de ellos. Todos las solicitudes aprobadas entran a una BOLSA.
 
-Una BOLSA almacena todos las solicitudes que serán atendidas y resueltas a lo largo de un mes.
+Una BOLSA almacena todas las solicitudes que serán atendidas y resueltas a lo largo de un mes.
 
 ![Whats a bag](../../../images/BAG.png "Whats a bag")
 
@@ -88,7 +89,7 @@ En este proceso también se analiza a fondo la complejidad y urgencia de resoluc
 
 Una vez analizada esta solicitud perfectiva, se puede tomar dos decisiones
 1. Realizarla, bajo el riesgo de exceder las horas límite de la [BOLSA](#%C2%BFqu%C3%A9-es-una-bolsa), que recae en el cobro de horas extras en la factura mensual del cliente.
-2. Crear una nueva fase de desarrollo [TODO]
+2. Crear una nueva fase de desarrollo ([Documento en progreso](https://paulonia.atlassian.net/browse/TOMENTOSA-1630))
 
 ## 3. Diseño y/o implementación
 #### No se me ocurren preguntas
