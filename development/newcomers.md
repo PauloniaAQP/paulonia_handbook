@@ -9,7 +9,7 @@ pagination:
 
 En esta sección, responderemos algunas preguntas comunes que puede tener como nuevo miembro del equipo de desarrollo front-end.
 
-**¿No me puedo iniciar sesión usando Facebook o Google en un aplicativo, como lo soluciono?**
+**¿No puedo iniciar sesión usando Facebook o Google en un aplicativo, como lo soluciono?**
 
 En el caso de Google, se requiere que autentifiques usando tu SHA1 o SHA256, consulta con el project lead de backend, en caso no estuviera agregado generalo y enviaselo para que sea agregado.
 
@@ -33,7 +33,7 @@ keytool -exportcert -v -alias androiddebugkey -keystore %USERPROFILE%/.android/d
 keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%/.android/debug.keystore
 ```
 
-Para el caso de Facebook, consulta con el project lead de backend, puede que necesites permisos como desarrollador de facebook o el proyecto aún no esté configurado para iniciarse sesión con facebook.
+Para el caso de Facebook, consulta con el project lead de backend, puede que necesites permisos como desarrollador de facebook o el proyecto aún no esté configurado para iniciar sesión con facebook.
 
 **¿Tengo algunas preguntas sobre una interfaz que tengo que implementar, quien puede resolver mis dudas?**
 
@@ -47,6 +47,6 @@ En caso el backend fuera desarrollado por Paulonia, pregunta por ello en el cana
 
 Coméntalo en el canal de diseño de Slack de ser algo simple, en caso sea algo más complejo pide una reunión con los project leads de diseño y backend para solucionar los problemas.
 
-**¿Qué hago si no puedo cumplir con una tarea asignada por falta de dependencias en diseño y/o backend?**
+**¿Qué hago si no puedo cumplir con una tarea asignada por dependencias en diseño y/o backend?**
 
 Lo primero que debes hacer es contactar a los responsables de esas dependencias por slack (en el canal del proyecto) o en jira (por comentarios de la tarea), etiquetando al encargado del proyecto. En caso no se pudiera completar la tarea para el sprint, comunicar al encargado de proyecto.

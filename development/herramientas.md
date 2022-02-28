@@ -30,15 +30,21 @@ Es importante que toda comunicación relacionada al trabajo o proyectos se reali
 
 Como realizamos trabajo remoto, hacemos uso de la herramienta _toogl track_ para hacer seguimiento a nuestras horas de trabajo. Es importante que al agregar una entrada agreguemos el proyecto en el que estamos trabajando y una etiqueta del tipo de trabajo que hacemos. Abajo dejamos algunas etiquetas que podrías usar:
 
-- planning
-- ui development
-- logic development
-- test writting
-- posting
-- blogging
-- bugs
-- meetings
-- daily meeting
-- daily planning
-- project structure
-- maintenance
+- App testing
+- Bugs
+- Daily Meeting
+- Daily Planning
+- Dev testing
+- Development
+- Documentation
+- Feedback
+- Management
+- Meet
+- Optimization
+- PR Review
+- Review
+- Training
+- Requirements Review
+- Planning
+- Personal things
+- Others

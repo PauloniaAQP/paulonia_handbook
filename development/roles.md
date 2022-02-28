@@ -17,7 +17,7 @@ En esta sección explicamos los diferentes roles manejados dentro de esta área.
 Persona encargada del área de desarrollo en Flutter. Tiene las siguientes **responsabilidades**:
 
 - Asigna los roles de cada miembro del equipo de backend.
-- Se encarga de que todo el equipo siga el presentado manual.
+- Se encarga de que todo el equipo siga el manual presentado.
 - Introducción de nuevas tecnologías y tendencias al proceso de desarrollo.
 - Organizar eventos y/o reuniones dentro del área de desarrollo en Flutter.
 - Documentar y mejorar los procesos de esta área.
