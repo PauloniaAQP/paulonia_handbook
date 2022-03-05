@@ -2,6 +2,6 @@
 title: Vacaciones
 pagination:
     previous:
-        link: ../maintenance
-        name: Mantenimiento
+        link: ../
+        name: Introducción
 ---
