@@ -31,6 +31,8 @@ Para poder acceder al periodo vacacional tiene que tener en consideración los s
     + Estos 15 días pueden ser tomados en cualquier periodo semanal a lo largo del siguiente año 
     + Cada periodo de vacaciones será descontado de estos 15 días
 
+¿Quieres saber más? Pregúntale a [Jhunior](mailto:jhunior@paulonia.dev)
+
 > **Recuerde**
 >> <p style="text-align:right;">''Usted no está obligado ni lo pueden obligar a cumplir su periodo vacacional anual''</p> 
 
@@ -79,7 +81,8 @@ Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará 
 ## 4. Salida e ingreso
 #### Miembros de equipo
 1. Antes de salir
-    + 
+    + Ponga en su estado de Slack, Whatsapp o cualquier otra plataforma **De vacaciones**
+    + Entre dos o 4 días antes, vuelva a avisar a todo el equipo que se irá de vacaciones.
 
 #### Leads
 1. Antes de salir
