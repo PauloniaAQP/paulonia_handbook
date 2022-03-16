@@ -8,24 +8,51 @@ lead: false
 ---
 
 - **Input necesario:**
-    - Errores reportados por usuarios
-    - Errores reportados en Sentry
+    - Eventos reportados por el cliente/usuario
+    - Eventos reportados por Sentry
+    - Eventos reportados por desarrolladores
 - **Input opcional:**
-    - Cualquier otro canal que proporcione listados de errores
+    - Cualquier otro canal que proporcione eventos
 - **Output:**
     - Pull request que arreglen los errores
 
 ---
 
-Por ahora se tienen dos tipos de errores: los que son reportados por usuarios y dueños de negocio, y los que llegan al listado de errores de Sentry.
-Los primeros suelen ser los más críticos ya que afectan de una u otra manera a la experiencia del usuario (ya que han sido detectados por los usuarios). Siendo o no críticos siempre tiene que haber un ticket en jira con la descripción del mismo y cómo reproducirlo (si se tiene esa info). 
+Todo el proceso de mantenimiento se encuentra explicado en el [Documento de Mantenimiento](/{{site.handbooks_path}}/paulonia/lifecycle/maintenance), antes de seguir leyendo aquí es mejor leer el proceso de mantenimiento de la empresa.
+En este documento explicaremos lo que un desarrollador backend hace a lo largo de este proceso.
 
-Para los errores reportados en Sentry se necesita realizar un acuerdo con el cliente, ya que requieren horas de trabajo de mantenimiento. Si el acuerdo existe, entonces el encargado tendrá que hacer una revisión al listado de bugs antes de que comienze cada sprint. En esta revisión deberá organizar y limpiar el listado debugs, y no debe demorar más de 2 horas de trabajo:
+##### 1. Identificación y clasificación
+
+En esta parte del proceso, los desarrolladores backend pueden dar su opinión a la hora de la clasificación de los eventos.
+
+##### 2. Análisis
+
+En el análisis, dependiendo del evento existe un proceso.
+
+Para los eventos reportados por el cliente/usuario y desarrolladores el análisis lo hace un desarrollador asignado por el team lead; es recomendable que el encargado sea alguien que ya haya trabajado antes en el proyecto/funcionalidad. Lo que tiene que hacer el desarrollador es analizar el evento y dar una estimación de cuánto podría tomar, en horas, implementar o arreglar dicho evento. **El análisis de cada tarea no puede durar más de 3 horas en los peores casos**.
+
+Para los eventos reportados por Sentry, se asignará un desarrollador que analize todos los errores de Sentry. Una ver por sprint, el encargado tendrá que hacer una revisión al listado debugs. En esta revisión se deberá organizar, analizar y limpiar el listado. En Sentry los eventos generalmente son de categoría **Correctiva**. **Esta tarea no debería demorar más de 4 horas**:
 
 - Deberá identificar los bugs que ya fueron resueltos (issues de anteriores versiones)  y marcarlos como resueltos para esa versión.
 - En algunos casos el Sentry genera issues separados que terminan siendo el mismo. Para estos casos identificar si son el mismo problema y combinar los issues.
-- Para los nuevos issues crear un ticket en Jira, colocar el link del issue en el ticket y colocar el link del ticket en un comentario en el issue en Sentry.
+- Para los nuevos issues crear un ticket en Jira, colocar el link del issue en el ticket y colocar el link del ticket en un comentario en el issue en Sentry. Analizar cuánto puede tomar el issue y agregar una estimación.
 
-Dependiendo de la gravedad de los issues creados en esta revisión, los tickets pueden entrar al siguiente sprint o pueden servir como tareas adicionales para las personas que necesiten tareas en el sprint. Es recomendable que una persona que haya estado involucrado en el proyecto realize esta revisión, para que así él pueda identificar errores críticos.
+Para los eventos **Adaptativos** que tengan que ver con actualización de dependencias en el proyecto se tendrá el siguiente proceso si el cliente lo aprueba:
 
-Luego, en el sprint se comenzaría una ronda de resolución de bugs y terminaría subiendo una nueva versión a tiendas.
+- En el sprint del inicio de cada mes se creará un evento para actualizar dependencias del proyecto. **Esta tarea no debería tomar más de 8 horas**
+- Si esta tarea es aprobada para su resolución, entonces se pasará a su implementación.
+
+**Nota: Tener en cuenta el despliegue de la aplicación en cuentas en la estimación de las tareas. Generalmente se debe dar al teminar el sprint luego de resolver las tareas de mantenimiento asignadas en ese sprint**
+
+
+##### 3. Diseño y/o implementación
+
+En esta parte, dependiendo de la índole de la tarea, los procesos son los mismos descritos en los [Procesos de Desarrollo](../desarrollo)
+
+##### 4. Validación, verificación y aceptación de pruebas
+
+En esta parte del proceso las personas encargadas de [revisar cada tarea implementada](../desarrollo#proceso-de-desarrollo-de-una-funcionalidad) son los encargados de revisar y validar la calidad del código y la escalabilidad de lo implementado.
+
+##### 5. Entrega y despliegue
+
+En esta parte, se debe seguir el [El proceso de subida a tiendas](../desarrollo#subida-a-las-tiendas).
