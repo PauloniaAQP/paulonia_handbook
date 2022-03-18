@@ -26,7 +26,7 @@ En este documento se describen los pasos a seguir en cada fase de reclutamiento,
 
 
 ## Consideraciones iniciales
-A lo largo de este proceso los postulantes serán evaluados como persona y como profesional, dando importancia a las habilidades blandas por encima de las duras. Este proceso puede durar bastantes días, dependiendo del puesto y perfil profesional que se requiera. En caso un ppostulante no sea admitido... ¡tranquilo! quedará registrado en nuestra de datos de contacto y será uno de los primeros en enterarse de nuevas postulaciones, noticias, eventos y más. 
+A lo largo de este proceso los postulantes serán evaluados como persona y como profesional, dando importancia a las habilidades blandas por encima de las duras. Este proceso puede durar bastantes días, dependiendo del puesto y perfil profesional que se requiera. En caso un postulante no sea admitido... ¡tranquilo! quedará registrado en nuestra de datos de contacto y será uno de los primeros en enterarse de nuevas postulaciones, noticias, eventos y más. 
 
 [Nuestros puestos disponibles]() /TODO: Aqui referenciar a un pagina donde publiquemos puestos de trabajo
 
@@ -64,8 +64,8 @@ El reclutador externo realiza una revisión de los formularios de postulación a
 
 Adicionalmente, dependiendo del perfil del postulante, este tiene que cumplir con estos criterios
 
-* **Desarrolladores Frontend**
-    * **Flutter**: Paulonia exporta aplicaciones basadas en Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
+* **Desarrolladores Móviles**
+    * **Flutter**: Paulonia exporta aplicaciones hechas con Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
 
 * **Desarrolladores Backend**
     * **Google Cloud Platform**: 
@@ -80,18 +80,18 @@ Los postulantes serán calificados de 0.0 a 5.0, donde 0.0 significa que no se h
 
 #### 3. Entrevista telefónica
 ##### Reclutador externo
-Los postulantes que logren pasar el primero filtro recibirán una llamada telefónica. En esta llamada, el reclutador externo formulará preguntas de ámbito general, así como específicas, con la finalidad de poder conocer el lado humano del postulante. La finalidad de esta pequeña entrevista, recae en detectar habilidades blandas de comunicación, desenvolvimiento y profesionalismo del postulante.
+Los postulantes que logren pasar el primer filtro recibirán una llamada telefónica. En esta llamada, el reclutador externo formulará preguntas de ámbito general, así como específicas, con la finalidad de poder conocer el lado humano del postulante. La finalidad de esta pequeña entrevista, recae en detectar habilidades blandas de comunicación, desenvolvimiento y profesionalismo del postulante.
 
 Aquí puede o no darse un segundo filtro básico, en el que dependiendo de las respuestas obtenidas, el reclutador externo procederá o no a invitar al postulante a una entrevista remota. Este segundo filtro básico, es igual de relevante que el primero, es decir, no se hará una evaluación rigurosa.
 
 ##### Reclutador interno
-Los reclutadores internos serán notificados para planificar todos los recursos y el periodo de inicio y fin para llevar a cabo las entrevistas remotas con los postulantes seleccionados, pasada la entrevista por llamada realizada por el reclutador externo. 
+Luego de la entrevista por llamada realizada por el reclutador externo, los reclutadores internos serán notificados para planificar todos los recursos y el periodo de duración para llevar a cabo las entrevistas remotas con los postulantes seleccionados.
 
 Esta fase finalizará el fin de semana para dar tiempo a los postulantes el tiempo necesario de fijar la fecha de su futura entrevista remota.
 
 #### 4. Entrevista remota
 
-A cada postulante se le enviará un correo de contacto@paulonia.dev con el asunto "Recruitment process", en el cual se le especificará el proceso para reservar una reunión con un reclutador interno. Adicionalmente, el postulante recibirá un enlace Calendly para que pueda reservar su entrevista con el reclutador interno. Este correo se le enviará al postulante el fin de semana, dándole tiempo a pensar y decidir cuando y con quién tener su entrevista. La reserva de entrevista tiene como fecha límite un día antes de iniciar una nueva semana (Domingo). 
+A cada postulante se le enviará un correo de central@paulonia.dev con el asunto "Recruitment process", en el cual se le especificará el proceso para reservar una reunión con un reclutador interno. Adicionalmente, el postulante recibirá un enlace Calendly para que pueda reservar su entrevista con el reclutador interno. Este correo se le enviará al postulante el fin de semana, dándole tiempo a pensar y decidir cuando tener su entrevista. La reserva de entrevista tiene como fecha límite un día antes de iniciar una nueva semana (Domingo). 
 
 ##### Reclutador externo
 + Hará seguimiento de todas las entrevistas a través de asignación de tareas para el reclutador interno. Estas tareas deben ser asignadas como máximo un día antes de iniciar una nueva semana (Domingo), dando tiempo al reclutador interno de planificar su hora de trabajo.
@@ -109,7 +109,7 @@ Las entrevistas remotan pretenden evaluar las habilidades duras del postulante e
 
 ##### Calificaciones
 Los aspectos generales a calificar serán los siguiente:
-+ **Desarrolladores Frontend**
++ **Desarrolladores Móviles**
     + **Buenas prácticas de programación**: Es requerido que se tenga buenas prácticas a la hora de crear líneas de código, desde estructuración y organización de proyectos, hasta la semántica y sintáctica implicada (variables, estados, clases, etc.)
     + **Contribución Open Source**: Es **deseable** que el postulante haya tenido al menos una contribución a un proyecto Open Source, en donde se evaluará la complejidad de su aporte.
     + **TODO**:
