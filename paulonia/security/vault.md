@@ -21,6 +21,10 @@ Para poder ingresar a nuestro Vault necesitamos generar un token de acceso desde
 Una vez dentro, Vault utiliza una estructura parecida a carpetas, donde dentro pueden haber otras carpetas o secretos. 
 La carpeta principal que verás se llama `paulonia`, dentro podrás encontrar diferentes carpetas, entra a la que tiene tu nombre de usuario de github. Sólo podras ver los secretos que se encuentren dentro de esta carpeta. Tu team lead o un administrador son los encargados de compartir secretos a tu carpeta de Vault. Por lo tanto, si necesitas acceso a cualquier cuenta de la empresa (no personal), pídesela a tu team lead para que la agregue a tu carpeta. En la carpeta de Loom podrás encontrar un pequeño video de esto bajo el nombre: `2. Vault - Cuenta de usuario`.
 
+|![Estructura de Vault](../../../images/vault-structure.png "Estructura de Vault")|
+|:--:|
+|*Estructura de Vault*|
+
 ## Recomendaciones
 
 - No compartir el link de nuestro Vault ni los videos explicativos con nadie que no esté dentro de la empresa.

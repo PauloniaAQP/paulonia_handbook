@@ -6,7 +6,7 @@ pagination:
         name: Vault
 ---
 
-Si no eres team lead o administrador de Vault, entonces no es necesario que leas este documento. Los team lead y administradores son los encargados de crear secretos y compartir secretors en Vault. Además pueden crear y eliminar usuarios.
+Si no eres team lead o administrador de Vault, entonces no es necesario que leas este documento. Los team lead y administradores son los encargados de crear secretos y compartirlos en Vault. Además pueden crear y eliminar usuarios.
 
 Para lo anterior mencionado, existen video tutoriales que explican estos procesos. Para obtener acceso a ellos, comuníquese con el encargado de seguridad: {{site.security_leader_name}}
 
