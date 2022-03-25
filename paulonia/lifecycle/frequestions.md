@@ -33,7 +33,7 @@ Cada mes durante la vigencia del contrato de mantenimiento, se generan solicitud
 
 Todas las solicitudes de mantenimiento del MRC tienen que pasar por un proceso de análisis, en el cual el personal de Paulonia determina el nivel crítico y urgencia de cada uno de ellos. Todos las solicitudes aprobadas entran a una BOLSA.
 
-Una BOLSA almacena todos las solicitudes que serán atendidas y resueltas a lo largo de un mes.
+Una BOLSA almacena todas las solicitudes que serán atendidas y resueltas a lo largo de un mes.
 
 ![Whats a bag](../../../images/BAG.png "Whats a bag")
 
