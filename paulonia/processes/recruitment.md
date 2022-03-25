@@ -26,9 +26,9 @@ En este documento se describen los pasos a seguir en cada fase de reclutamiento,
 
 
 ## Consideraciones iniciales
-A lo largo de este proceso los postulantes serán evaluados como persona y como profesional, dando importancia a las habilidades blandas por encima de las duras. Este proceso puede durar bastantes días, dependiendo del puesto y perfil profesional que se requiera. En caso un postulante no sea admitido... ¡tranquilo! quedará registrado en nuestra de datos de contacto y será uno de los primeros en enterarse de nuevas postulaciones, noticias, eventos y más. 
+A lo largo de este proceso los postulantes serán evaluados como persona y como profesional, dando la misma importancia a las habilidades blandas como habilidades duras. Este proceso puede durar bastantes días, dependiendo del puesto y perfil profesional que se requiera. En caso un postulante no sea admitido... ¡tranquilo! quedará registrado en nuestra de datos de contacto y será uno de los primeros en enterarse de nuevas postulaciones, noticias, eventos y más. 
 
-[Nuestros puestos disponibles]() /TODO: Aqui referenciar a un pagina donde publiquemos puestos de trabajo
+[Nuestros puestos disponibles]()
 
 ## Proceso de reclutamiento 
 Este proceso se desglosa en 6 fases o pasos, en los cuales el postulante pasará por formularios, entrevistas y capacitaciones
@@ -66,10 +66,6 @@ Adicionalmente, dependiendo del perfil del postulante, este tiene que cumplir co
 
 * **Desarrolladores Móviles**
     * **Flutter**: Paulonia exporta aplicaciones hechas con Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
-
-* **Desarrolladores Backend**
-    * **Google Cloud Platform**: 
-
 
 * **Diseñadores UX/UI**
     * **Plataformas de diseño**: No importa la herramienta digital que se emplee, debe dominar al menos una en un nivel avanzado.  
@@ -112,16 +108,10 @@ Los aspectos generales a calificar serán los siguiente:
 + **Desarrolladores Móviles**
     + **Buenas prácticas de programación**: Es requerido que se tenga buenas prácticas a la hora de crear líneas de código, desde estructuración y organización de proyectos, hasta la semántica y sintáctica implicada (variables, estados, clases, etc.)
     + **Contribución Open Source**: Es **deseable** que el postulante haya tenido al menos una contribución a un proyecto Open Source, en donde se evaluará la complejidad de su aporte.
-    + **TODO**:
-+ **Desarrolladores Backend**
-    + **TODO**:
 
 + **Diseñadores UX/UI**
     + **Diseño básico**: Todo postulante debe conocer conceptos de colores, jerarquía, etc., y cómo y donde aplicarlos.
     + **Diseño multiplataforma**: Deben conocer de diseño Android, iOS y Web, y las barreras o bondades que presente cada plataforma.
-
-+ **Otros puestos**
-    + **TODO**:
 
 Los postulantes serán calificados de 0.0 a 5.0 por cada punto a discutir, donde 0.0 significa que no se ha hallado ninguna información relevante, y 5.0 que cumple el punto en su totalidad.
 
@@ -146,6 +136,3 @@ Si se llega a un acuerdo que favorezca a ambas partes, el o los postulantes ser�
 **¡Bienvenidos a Paulonia!**
 
 Los líderes del área de trabajo respectivo, se contactarán con los nuevos miembros para definir sus tareas, responsabilidades y otros detalles, con la finalidad de tener un inicio de Sprint productivo.
-
-
-TODO Definir los proceso que un nuevo miembro tiene que hacer para desarrollo, y para diseño
