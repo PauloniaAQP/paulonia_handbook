@@ -8,5 +8,3 @@ pagination:
         link: ../
         name: Introducción
 ---
-
-Creo que sería bueno poder explicar aqui el ciclo de vida cuando iniciamos un proyecto
