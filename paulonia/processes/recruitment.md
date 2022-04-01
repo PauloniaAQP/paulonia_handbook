@@ -60,7 +60,7 @@ En esta fase el postulante puede enviar el formulario de postulación con toda l
 El reclutador externo realiza una revisión de los formularios de postulación aplicando un filtro básico. En este primer filtro no se pretende ser riguroso, dado que el reclutador externo solo considerará aspectos generales del perfil buscado. En este punto todos los campos de información tienen la misma relevancia. Sin embargo, existen algunos criterios que se deben observar de forma general para cualquier puesto a cubrir:
 
 * **Inglés**: El idioma inglés nativo o como segunda lengua es indispensable, ya sea en un nivel básico, intermedio o avanzado, el postulante tiene que lograr comunicarse con compañeros de trabajos, líderes o clientes.
-* **Métodos ágiles**: Ya sea conocer o saber aplicar, los postulantes deben presentar tener familiaridad con metodologías ágiles en caulquier tipo de proyecto.
+* **Métodos ágiles**: Ya sea conocer o saber aplicar, los postulantes deben presentar tener familiaridad con metodologías ágiles en cualquier tipo de proyecto.
 
 Adicionalmente, dependiendo del perfil del postulante, este tiene que cumplir con estos criterios
 
