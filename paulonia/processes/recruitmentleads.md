@@ -32,7 +32,7 @@ Tenga en cuenta que un Team Lead (reclutador interno desde ahora) no está autor
 #### Responsabilidades del CEO
 + El CEO debe determinar el rango salarial para los nuevos postulantes, así como coordinar los 3 puntos mencionados en la [solicitud de contratación](#solicitar-la-contratación-de-talento-humano) y aprobar o rechazar los requerimientos.
     + En caso el CEO considere rechazar la solicitud, pueden pedir una modificación de especificaciones al reclutador interno solicitante y llegar a un acuerdo.
-    + Tenga presente que usted el clave para la determinación del nuevo personal, por lo que adicional a la aprobación o desaprobación de los postulantes, debe investigar la oferta y demanda de los nuevos perfiles a buscar.
+    + Tenga presente que usted es clave para la determinación del nuevo personal, por lo que adicional a la aprobación o desaprobación de los postulantes, debe investigar la oferta y demanda de los nuevos perfiles a buscar.
 + El CEO se encargará de informar al reclutador externo, la necesidad de lanzar un nuevo proceso de reclutamiento
     + Tiene que especificar con área coordinar para especificar y determinar el perfil y las responsabilidades de los nuevos postulantes, asi como el número de plazas y rango salarial.
 
