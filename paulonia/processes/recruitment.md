@@ -100,7 +100,7 @@ A cada postulante se le enviará un correo de central@paulonia.dev con el asunto
 ##### Entrevista
 Las entrevistas remotan pretenden evaluar las habilidades duras del postulante en un 60% y sus habilidades blandas en un 40%. 
 
-+ Las entrevistas durarán como máximo 30 minutos bajo un guión asignado a cada reclutado interno o al área al que pertenece. El reclutador interno no está obligado a seguir al pie de la letra el guión, sin embargo está en la obligación de respetar los puntos mencionados en él, haciendo justa la entrevista para todos los postulantes. 
++ Las entrevistas durarán como máximo 30 minutos bajo un guión asignado a cada reclutador interno o al área al que pertenece. El reclutador interno no está obligado a seguir al pie de la letra el guión, sin embargo está en la obligación de respetar los puntos mencionados en él, haciendo justa la entrevista para todos los postulantes. 
 + Todas las entrevistas serán grabadas, sirviendo como evidencia y ayuda para el CEO de Paulonia en tomar una decisión adecuada.
 
 ##### Calificaciones
