@@ -150,7 +150,7 @@ El reclutador externo está en la obligación de proporcionarle todo material de
 #### Responsabilidades del CEO
 Una vez determinado los posibles nuevos miembros, y ya sea para afirmar las condiciones de los postulantes o informar de cambios determinados por el CEO y los reclutadores
 + Debe coordinar con el reclutador externo para reunirse con los postulantes y expresar las condiciones acordadas para ingresar a Paulonia.
-+ Debe crear una tarea en Jira, asociado al Epic, par el reclutador externo, con el motivo de asegurar que se reunirá con los postulantes.
++ Debe crear una tarea en Jira, asociado al Epic, para el reclutador externo, con el motivo de asegurar que se reunirá con los postulantes.
 
 En caso los postulantes acepten las condiciones brindadas:
 + Debe coordinar con el o los reclutadores internos para iniciar una fase de entrenamiento (en caso amerite), e inducción para incorporarlo a sus actividades (de forma obligatoria)
