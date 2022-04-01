@@ -101,7 +101,7 @@ Una vez determinada y notificada la lista de los postulantes recuerde que debe c
 
 + **Con los postulantes**
     + Enviar un correo informando que ha sido seleccionado para ser entrevistado por un reclutador interno, especificando el modo de agendar su entrevista por medio de Calendly y el plazo máximo de reserva.
-    + No enviíe correos a los postulantes no calificados, dado que pueden ser considerados en caso de negociaciones fallidas.
+    + No envíe correos a los postulantes no calificados, dado que pueden ser considerados en caso de negociaciones fallidas.
 + **Con los reclutadores internos**
     + Coordinar la apertura de la plataforma Calendly para recibir peticiones de entrevistas. Se debe especificar el periodo de inicio y fin.
     + Crear tickets de Tarea en Jira asociándolos con el Epic de reclutamiento, para el o los reclutadores internos que participarán en la entrevistas remotas.
