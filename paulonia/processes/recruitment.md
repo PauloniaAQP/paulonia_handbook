@@ -65,7 +65,7 @@ El reclutador externo realiza una revisión de los formularios de postulación a
 Adicionalmente, dependiendo del perfil del postulante, este tiene que cumplir con estos criterios
 
 * **Desarrolladores Móviles**
-    * **Flutter**: Paulonia exporta aplicaciones hechas con Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
+    * **Flutter**: Paulonia exporta aplicaciones hechas con Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante que no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
 
 * **Diseñadores UX/UI**
     * **Plataformas de diseño**: No importa la herramienta digital que se emplee, debe dominar al menos una en un nivel avanzado.  
