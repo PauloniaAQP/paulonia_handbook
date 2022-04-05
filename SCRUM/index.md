@@ -66,7 +66,7 @@ https://www.funretrospectives.com/
 ## Planificación
 Para definir las historias de usuario o tareas que se realizarán en el siguiente sprint, primero se debe tener un backlog bien trabajado, el cual contiene los requerimientos que el dueño de producto necesita.
 ### ¿Quién es el dueño de producto?
-En Paulonia tenemos diferentes clientes, los cuales generalmente no tienen a alguien que asuma el rol de dueño de producto, es por ello que  designamos a una persona para que cumpla este rol en todos los proyectos, y se encargue de priorizar tareas y revisar la entrega de producto que hacen los equipos.
+En Paulonia tenemos diferentes clientes, los cuales generalmente no tienen a alguien que asuma el rol de dueño de producto, es por ello que designamos a una persona para que cumpla este rol en todos los proyectos, y se encargue de priorizar tareas y revisar la entrega de producto que hacen los equipos.
 
 Adicional a ello, el encargado también define las tareas relacionadas a Paulonia, las cuales no son especificadas a nivel técnico, sino que detalla a nivel general y especifica el valor que añade a la empresa.
 
