@@ -49,7 +49,7 @@ Las acciones que debe realizar el facilitador son las siguientes:
 En esta ceremonia se realiza lo siguiente:
 - El equipo muestra los logros del sprint, utilizando los recursos que vea por conveniente. Cada partipante tiene entre 5-7 minutos para realizar esto.
 - Se revisan las métricas obtenidas (en caso hubieran).
-- Se dá un vistazo general al siguiente sprint.
+- Se dá un vistazo general del siguiente sprint.
 
 El Scrum Master va guiando la reunión, velando porque la reunión mantenga un buen ritmo y se respeten los tiempos.
 
