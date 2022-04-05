@@ -23,7 +23,7 @@ Cuando una persona inicie su intervención, debe responder las siguientes pregun
 
  1. ¿Qué tareas hice ayer?
  2. ¿Qué tareas haré hoy?
- 3. ¿Veo algun impedimento en mis tareas?
+ 3. ¿Tengo o podría tener algún impedimento en mis tareas?
  4. ¿Todo lo que menciono está actualizado en JIRA?
 
 Cabe recalcar que la intervención del participante solo debe ser de los objetivos del sprint, en caso hubiera realizado tareas extras no previstas, debe indicarlo como 'entre otras cosas'. Esto se hace con la finalidad de no desenfocar al equipo de los objetivos del sprint.
