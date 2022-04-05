@@ -7,7 +7,7 @@ Es el marco de trabajo de desarrollo ágil que utilizamos en Paulonia. Este incl
 
 # Roles
 ## Scrum master
-Es la persona que ayuda a facilitar scrum al equipo, asegurándose de que se sigue el marco de trabajo. Su compromiso es con los valores y prácticas de scrum, pero también debe ser flexible y estar abierto a las oportunidades de mejora del flujo de trabajo del equipo
+Es la persona que ayuda a facilitar SCRUM al equipo, asegurándose de que se sigue el marco de trabajo. Su compromiso es con los valores y prácticas de SCRUM, pero también debe ser flexible y estar abierto a las oportunidades de mejora del flujo de trabajo del equipo
 ## Product owner
 Es la persona encargada de crear las historias de usuario que se trabajaran en los sprints. Conoce muy bien del negocio y es el puente entre el cliente y Paulonia
 
