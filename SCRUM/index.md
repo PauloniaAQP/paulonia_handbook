@@ -38,7 +38,7 @@ Se debe evitar a toda costa que las intervenciones de los participantes sean a m
  3. Detectar estancamientos al comparar las tareas previstas del dia anterior con las tareas realizadas.
 
 ### Facilitador de la reunión
-No es necesario que la persona que guie la reunión diaria sea el SCRUM Master, por ello cada día se designa a una persona distinta para que guie esta.
+No es necesario que la persona que guíe la reunión diaria sea el SCRUM Master, por ello se recomienda que cada día se designe a una persona distinta para que la guíe.
 Las acciones que debe realizar el facilitador son las siguientes:
 1. Verificar que todo el equipo esté listo para iniciar la reunión.
 2. Recordar a los participantes que deben cumplir con la estructura de la reunión diaria.
