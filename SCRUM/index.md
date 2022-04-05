@@ -16,7 +16,7 @@ Es la persona encargada de crear las historias de usuario que se trabajaran en l
 
 ## Reuniones diarias
 
-Es un evento de 15 minutos donde el equipo sincroniza sus actividades y crea un plan para las próximas 24 horas. Es importante entender que no solamente se debe dar una actualización de las tareas que estas trabajando, sino que se debe enfatizar en los obstaculos y las oportunidades de mejora.
+Es un evento de 15 minutos donde el equipo sincroniza sus actividades y crea un plan para las próximas 24 horas. Es importante entender que no solamente se debe dar una actualización de las tareas que estas trabajando, sino que se debe enfatizar en los obstáculos y las oportunidades de mejora.
 
 ### Preguntas a responder
 Cuando una persona inicie su intervención, debe responder las siguientes preguntas:
