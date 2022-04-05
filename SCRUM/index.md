@@ -57,7 +57,7 @@ El Scrum Master va guiando la reunión, velando porque la reunión mantenga un b
 En esta ceremonia se realizan las siguientes actividades:
 - Energizante: Dinámica para que las personas entren en confianza y se suelten.
 - Retrospectiva: Dínamica para recolectar ideas sobre el sprint pasado. Por lo general se enfoca en problemas y soluciones.
-- Filtrado: Dínamica para seleccionar el punto de acción que se realizará en el sprint. Se recolecta las ideas y aquellas que no sean puntos de acción se convierten en tickets que irán  al backlog.
+- Filtrado: Dinámica para seleccionar el punto de acción que se realizará en el sprint. Se recolecta las ideas y aquellas que no sean puntos de acción se convierten en tickets que irán al backlog.
 - Estado del equipo: Espacio para compartir el sentir de cada uno respecto a las tareas que realiza, relación con compañeros de trabajo y relación con clientes.
 
 Para obtener ideas de dinámicas se debe revisar la siguiente página:
