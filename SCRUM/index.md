@@ -98,7 +98,7 @@ Dependerá del tipo de tarjetas:
 ### ¿Cuando se crean las tarjetas?
 Eso dependerá de a que sprint pertenezca la tarjeta
 - **Sprint  Actual**: Se pueden crear a lo largo del sprint siempre y cuando no afecte el alcance inicial. Generalmente son las tarjetas creadas desde Slack.
-- **Sprint Futuro** Se crean en cualquier momento y se añaden al Backlog.
+- **Sprint Futuro:** Se crean en cualquier momento y se añaden al Backlog.
 Para proyectos nuevos, las historias se crean al inicio del proyecto y se crean tarjetas con cada una de ellas.
 
 ### ¿Cómo se definen las tareas para el siguiente Sprint?
