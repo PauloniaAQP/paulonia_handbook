@@ -93,7 +93,7 @@ Adicional a estos campos se pueden añadir de forma opcional:
 ### ¿Quién crea las tarjetas?
 Dependerá del tipo de tarjetas:
 - Las historias de usuario las creará el **dueño de producto**.
-- Las tareas son creadas generalmente por el **lider de equipo** pero tambien hay algunas que pueden ser creadas por cualquier persona del equipo (subtareas, tareas desde Slack
+- Las tareas son creadas generalmente por el **lider de equipo** pero tambien hay algunas que pueden ser creadas por cualquier persona del equipo (subtareas, tareas desde Slack)
 
 ### ¿Cuando se crean las tarjetas?
 Eso dependerá de a que sprint pertenezca la tarjeta
