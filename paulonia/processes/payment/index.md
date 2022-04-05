@@ -49,9 +49,11 @@ Si, es por ello que primero se debe depositar el 78% a la cuenta Interbank de Pa
 No, deberá realizar el pago directamente a la cuenta de Paulonia.
 - **Si no tengo RUC ¿Cómo puedo pagar las detracciones?**
 Deberá realizar el pago total a la cuenta de Paulonia (Interbank o Paypal) y nosotros nos encargaremos del pago de detracciones.
-- **¿Cuántas facturas emiten por proyecto?**
-Emitimos un comprobante por cada pago que realice el cliente.
+- **¿Con qué tipo de cambio pagaré las detracciones?**
+Las detracciones se pagan con el tipo de cambio del día (USD a Soles). Debo solicitar al asesor comercial el monto exacto, antes de realizar el pago.
 - **¿La factura incluirá el monto de la detracción?**
 Si, se emite la factura por el monto total que deposita el cliente a nuestras cuentas (Detracciones y Banco).
+- **¿Cuántas facturas emiten por proyecto?**
+Emitimos un comprobante por cada pago que realice el cliente.
 
   
