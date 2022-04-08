@@ -8,15 +8,21 @@ Es el marco de trabajo de desarrollo ágil que utilizamos en Paulonia. Este incl
 # Roles
 ## Scrum master
 Es la persona que ayuda a facilitar SCRUM al equipo, asegurándose de que se sigue el marco de trabajo. Su compromiso es con los valores y prácticas de SCRUM, pero también debe ser flexible y estar abierto a las oportunidades de mejora del flujo de trabajo del equipo
-## Product owner
-Es la persona encargada de crear las historias de usuario que se trabajaran en los sprints. Conoce muy bien del negocio y es el puente entre el cliente y Paulonia
+## Director de proyectos
+ Conoce muy bien el alcance de los proyectos y define una ruta para que se cumpla con los tiempos de entrega. Es el encargado de mantener al cliente actualizado respecto al estado del proyecto.
+## Product Owner
+Es la persona encargada de crear requisitos para el desarrollo o diseño del producto. Debe conocer las necesidades del negocio, para poder priorizar tareas. Por lo general este rol lo desempeñan los dueños de negocio, pero en caso estos deleguen la responsabilidad a otra persona, se debe asegurar que tenga la preparación y el conocimiento adecuado.
 
 
 # Ceremonias
 
 ## Reuniones diarias
 
-Es un evento de 15 minutos donde el equipo sincroniza sus actividades y crea un plan para las próximas 24 horas. Es importante entender que no solamente se debe dar una actualización de las tareas que estas trabajando, sino que se debe enfatizar en los obstáculos y las oportunidades de mejora.
+Es un evento de 15 minutos donde el equipo sincroniza sus actividades y crea un plan para las próximas 24 horas. Es importante entender que no solamente se debe dar una actualización de las tareas que estas trabajando, sino que se debe enfatizar en los obstáculos y las oportunidades de mejora. 
+
+El lider de equipo asignado es el encargado de guiar estas reuniones.
+
+En Paulonia por lo general se trabaja en diversos proyectos por sprint, por ello se crean reuniones diarias para cada equipo. La asignación de personas por equipo y la creación de reuniones en Google Meet las hace el director de proyectos.
 
 ### Preguntas a responder
 Cuando una persona inicie su intervención, debe responder las siguientes preguntas:
@@ -27,8 +33,6 @@ Cuando una persona inicie su intervención, debe responder las siguientes pregun
  4. ¿Todo lo que menciono está actualizado en JIRA?
 
 Cabe recalcar que la intervención del participante solo debe ser de los objetivos del sprint, en caso hubiera realizado tareas extras no previstas, debe indicarlo como 'entre otras cosas'. Esto se hace con la finalidad de no desenfocar al equipo de los objetivos del sprint.
-
-Luego de finalizada su intervención deberá indicar el nombre de la siguiente persona.
 
 ### Objetivos de la reunión diaria
 Se debe evitar a toda costa que las intervenciones de los participantes sean a modo de reporte, por ello antes de participar de una reunión diaria se debe considerar los siguientes objetivos:
@@ -102,7 +106,10 @@ Eso dependerá de a que sprint pertenezca la tarjeta
 Para proyectos nuevos, las historias se crean al inicio del proyecto y se crean tarjetas con cada una de ellas.
 
 ### ¿Cómo se definen las tareas para el siguiente Sprint?
-Se deben tener todas las tareas de clientes definidas hasta el lunes de la segunda semana. Ese día se celebrará una reunión corta con los líderes de equipo para definir que otras tareas se añadirán al sprint y tambien se refinarán aquellas que falten. 
-Luego de que todas las tareas estén definidas el dia de la retrospectiva se seleccionará con todo el equipo las tareas que se harán en el siguiente sprint.
+La elección y/o creación de tareas se harán en las siguientes reuniones:
+- **Reuniones con líderes:** Se celebrará el jueves de la segunda seman de sprint. Estas pueden ser individuales (1:1) o grupales, según el criterio del director de proyectos.
+- **Reuniones con accionistas:** Se destinará un tiempo en cada junta de accionistas para la definición de tareas relacionadas a la dirección de la empresa en diversas áreas.
+
+Finalment se añadirán las tarjetas al tablero del siguiente sprint en Jira.
 
 
