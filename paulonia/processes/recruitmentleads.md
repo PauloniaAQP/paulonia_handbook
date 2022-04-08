@@ -30,7 +30,7 @@ Tenga en cuenta que un Team Lead (reclutador interno desde ahora) no está autor
 + La Junta de Accionistas ha de aprobar o rechazar la solicitud del reclutador interno a través de una reunión (es suficiente la presencia de 1 miembro de la Junta de Accionistas) o correo, en un plazo máximo de 3 días.
 
 #### Responsabilidades de la Junta de Accionistas
-+ Los accionistas deben determinar el rango salarial para los nuevos postulantes, así como coordinar los 3 puntos mencionados en la [solicitud de contratación](#solicitar-la-contratación-de-talento-humano) y aprobar o rechazar los requerimientos.
++ La Junta de Accionitas deben determinar el rango salarial para los nuevos postulantes, así como coordinar los 3 puntos mencionados en la [solicitud de contratación](#solicitar-la-contratación-de-talento-humano) y aprobar o rechazar los requerimientos.
     + En caso la Junta de Accionistas considere rechazar la solicitud, pueden pedir una modificación de especificaciones al reclutador interno solicitante y llegar a un acuerdo.
     + Tenga presente que usted el clave para la determinación del nuevo personal, por lo que adicional a la aprobación o desaprobación de los postulantes, debe investigar la oferta y demanda de los nuevos perfiles a buscar.
 + La Junta de Accionistas se encargará de informar al reclutador externo, la necesidad de lanzar un nuevo proceso de reclutamiento
@@ -101,7 +101,7 @@ Una vez determinada y notificada la lista de los postulantes recuerde que debe c
 
 + **Con los postulantes**
     + Enviar un correo informando que ha sido seleccionado para ser entrevistado por un reclutador interno, especificando el modo de agendar su entrevista por medio de Calendly y el plazo máximo de reserva.
-    + No enviíe correos a los postulantes no calificados, dado que pueden ser considerados en caso de negociaciones fallidas.
+    + No envíe correos a los postulantes no calificados, dado que pueden ser considerados en caso de negociaciones fallidas.
 + **Con los reclutadores internos**
     + Coordinar la apertura de la plataforma Calendly para recibir peticiones de entrevistas. Se debe especificar el periodo de inicio y fin.
     + Crear tickets de Tarea en Jira asociándolos con el Epic de reclutamiento, para el o los reclutadores internos que participarán en la entrevistas remotas.
@@ -150,7 +150,7 @@ El reclutador externo está en la obligación de proporcionarle todo material de
 #### Responsabilidades de la Junta de Accionistas
 Una vez determinado los posibles nuevos miembros, y ya sea para afirmar las condiciones de los postulantes o informar de cambios determinados por la Junta de Accionistas y los reclutadores
 + Debe coordinar con el reclutador externo para reunirse con los postulantes y expresar las condiciones acordadas para ingresar a Paulonia.
-+ Debe crear una tarea en Jira, asociado al Epic, par el reclutador externo, con el motivo de asegurar que se reunirá con los postulantes.
++ Debe crear una tarea en Jira, asociado al Epic, para el reclutador externo, con el motivo de asegurar que se reunirá con los postulantes.
 
 En caso los postulantes acepten las condiciones brindadas:
 + Debe coordinar con el o los reclutadores internos para iniciar una fase de entrenamiento (en caso amerite), e inducción para incorporarlo a sus actividades (de forma obligatoria)

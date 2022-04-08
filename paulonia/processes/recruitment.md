@@ -57,15 +57,15 @@ En esta fase el postulante puede enviar el formulario de postulación con toda l
 + No enviar dos formularios de postulación pues ambos podrían ser descartados. Ante alguna solicitud de modificación o actualización de información envíe un correo electrónico a [contacto@paulonia.dev](mailto:contacto@paulonia.dev)
 
 #### 2. Selección inicial
-El reclutador externo realiza una revisión de los formularios de postulación aplicando un filtro básico. En este primero filtro no se pretende ser rigoroso, dado que el reclutador externo solo considerará aspectos generales del perfil buscado. En este punto todos los campos de información tienen la misma relevancia. Sin embargo, existen algunos criterios que se deben observar de forma general para cualquier puesto a cubrir:
+El reclutador externo realiza una revisión de los formularios de postulación aplicando un filtro básico. En este primer filtro no se pretende ser riguroso, dado que el reclutador externo solo considerará aspectos generales del perfil buscado. En este punto todos los campos de información tienen la misma relevancia. Sin embargo, existen algunos criterios que se deben observar de forma general para cualquier puesto a cubrir:
 
 * **Inglés**: El idioma inglés nativo o como segunda lengua es indispensable, ya sea en un nivel básico, intermedio o avanzado, el postulante tiene que lograr comunicarse con compañeros de trabajos, líderes o clientes.
-* **Métodos ágiles**: Ya sea conocer o saber aplicar, los postulantes deben presentar tener familiaridad con metodologías ágiles en caulquier tipo de proyecto.
+* **Métodos ágiles**: Ya sea conocer o saber aplicar, los postulantes deben presentar tener familiaridad con metodologías ágiles en cualquier tipo de proyecto.
 
 Adicionalmente, dependiendo del perfil del postulante, este tiene que cumplir con estos criterios
 
 * **Desarrolladores Móviles**
-    * **Flutter**: Paulonia exporta aplicaciones hechas con Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
+    * **Flutter**: Paulonia exporta aplicaciones hechas con Flutter, por lo que se requiere que el postulante tenga conocimiento intermedio o avanzado de este framework. Asi mismo, si un postulante tiene un conocimiento básico y esto sirve como experiencia, también será considerado elegible para una entrevista. Caso contrario, el postulante que no conozca ni tenga experiencia en Flutter, será automáticamente descartado.
 
 * **Diseñadores UX/UI**
     * **Plataformas de diseño**: No importa la herramienta digital que se emplee, debe dominar al menos una en un nivel avanzado.  
@@ -100,7 +100,7 @@ A cada postulante se le enviará un correo de central@paulonia.dev con el asunto
 ##### Entrevista
 Las entrevistas remotan pretenden evaluar las habilidades duras del postulante en un 60% y sus habilidades blandas en un 40%. 
 
-+ Las entrevistas durarán como máximo 30 minutos bajo un guión asignado a cada reclutado interno o al área al que pertenece. El reclutador interno no está obligado a seguir al pie de la letra el guión, sin embargo está en la obligación de respetar los puntos mencionados en él, haciendo justa la entrevista para todos los postulantes. 
++ Las entrevistas durarán como máximo 30 minutos bajo un guión asignado a cada reclutador interno o al área al que pertenece. El reclutador interno no está obligado a seguir al pie de la letra el guión, sin embargo está en la obligación de respetar los puntos mencionados en él, haciendo justa la entrevista para todos los postulantes. 
 + Todas las entrevistas serán grabadas, sirviendo como evidencia y ayuda para el CEO de Paulonia en tomar una decisión adecuada.
 
 ##### Calificaciones
