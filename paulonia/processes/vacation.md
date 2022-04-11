@@ -45,7 +45,7 @@ Previo a tu solicitud de vacaciones, asegúrate de reservar el periodo de tus va
 + Tu reserva de vacaciones no debe exceder 3 semanas (15 días hábiles)
 
 #### Proceso
-1. Verifica en el [Calendario Paulonia](https://github.com/PauloniaAQP/paulonia_handbook/blob/main/contribute/example.md) que alguien más no haya reservado tus días de descanso
+1. Verifica en el [Calendario Paulonia](https://github.com/PauloniaAQP/paulonia_handbook/blob/main/contribute/example.md) si hay más personas de tu área que están tomando vacaciones los mismo días que tú. Recuerda cumplir el primer pre-requisito.
 2. Reserva tus días de descanso con anticipación
     + Para 1 o 2 semanas de descanso, 2 semanas de anticipación
     + Para 3 semanas de descanso, 3 semanas de anticipación
