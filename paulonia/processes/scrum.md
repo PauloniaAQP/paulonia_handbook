@@ -1,6 +1,9 @@
 ---
 title: SCRUM
-lead: true
+pagination:
+    previous:
+        link: ../
+        name: Introducción
 ---
 
 Es el marco de trabajo de desarrollo ágil que utilizamos en Paulonia. Este incluye un conjunto de reuniones, herramientas y funciones que, de forma coordinada, ayudan a los equipos a estructurar y gestionar su trabajo.
@@ -80,7 +83,7 @@ El Product Backlog es una lista de todo el trabajo pendiente en la empresa. Est�
  - Historias de Usuario.
  
 Ambas deben tener los siguientes campos:
-- **Titulo**: Es un texto con la siguiente estructura: Proyecto | Descripción corta 
+- **Titulo**: Es un texto con la siguiente estructura: Proyecto \| Descripción corta 
 - **Descripción**: Es un texto en el cual se especifican 3 cosas:
 	- Información general
 	- Criterios de aceptación
