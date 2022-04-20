@@ -107,7 +107,13 @@ Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará 
 
 #### CTO
 
-#### CMO
+#### CCO
++ Define un encargado para la comunicación y toma de requerimientos de los clientes, por lo general estas responsabilidades las asume el gerente de ventas.
++ Comunica a todos los clientes (por correo), que estará de vacaciones y que deben comunicarse con el encargado.
++ Se comunica con el CTO para que los mensajes enviados desde la landing page lleguen tambien al correo del encargado.
++ Revisa el calendario para verificar que no hay reuniones programadas con clientes. Y en caso hubieran, coordinara con el encargado para que las tome y notifica a los clientes del cambio.
++ En caso hubieran charlas programadas, se coordinará con los organizadores para reprogramarlas, y en caso no se pueda, se definirá un encargado para que pueda dar las charlas.
+
 
 #### Cargos administrativos
 Recuerde que sus vacaciones y días de descanso están reglados de acuerdo a ley
