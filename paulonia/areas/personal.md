@@ -30,7 +30,7 @@ pagination:
 
 |![Nombre](../../../images/juan.jpg "Juan León")|
 |:--:|
-|*Líder del equipo de Marketing*|
+|*Líder del equipo Comercial*|
 
 ---
 <center><b> Mendoza Villarroel, Alexis Aldo </b></center>
