@@ -5,7 +5,7 @@ pagination:
         link: ../frequestions
         name: Preguntas
     previous:
-        link: ../
+        link: ../lifecycle
         name: Ciclo de vida
 ---
 
