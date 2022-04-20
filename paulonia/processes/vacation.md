@@ -146,6 +146,7 @@ Para solicitar días de descanso remunerados, usted debe notificar:
 
 Recuerde que, independiente de la modalidad de vacaciones especiales que decida tomar, debe seguir todos los procesos del [proceso de solicitud](#proceso) y [anuncio](#3-anunciar-vacaciones) así como todos los siguientes a este.
 
+
 ## 6. Descansos médicos
 Adicional al proceso de [solicitud de vacaciones](#2-solicitar-vacaciones) mencionados anteriormente, usted debe considerar:
 + Informe a todo el equipo de trabajo de su área y a su Lead con caracter de **urgencia** utilizando el canal Slack  "el nombre" [TODO]. 

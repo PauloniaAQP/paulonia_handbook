@@ -3,8 +3,8 @@ title: Introducción a los procesos
 lead: true
 pagination:
     next:
-        link: ./vacation
-        name: Vacaciones
+        link: ./scrum
+        name: SCRUM
 ---
 
 TODO
