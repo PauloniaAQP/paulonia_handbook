@@ -11,7 +11,7 @@ pagination:
 <center><b> Chavez Carazas, Christofer Fabián </b></center>
 ---
 
-|![Nombre](../../../images/christofer.jpg "Christofer Chavez")|
+|![Nombre](../../../images/Christofer.jpg "Christofer Chavez")|
 |:--:|
 |*Líder del equipo de Desarrollo y Cloud*|
 
@@ -20,7 +20,7 @@ pagination:
 <center><b> Chavez Cruz, Jhunior Kenyi </b></center>
 ---
 
-|![Nombre](../../../images/jhunior.jpg "Jhunior Chavez")|
+|![Nombre](../../../images/Jhunior.jpg "Jhunior Chavez")|
 |:--:|
 |*Líder del equipo de Diseño :: Jefe de Recursos Humanos*|
 
@@ -28,7 +28,7 @@ pagination:
 <center><b> León Camino, Juan José </b></center>
 ---
 
-|![Nombre](../../../images/juan.jpg "Juan León")|
+|![Nombre](../../../images/Juan.jpg "Juan León")|
 |:--:|
 |*Líder del equipo Comercial*|
 
@@ -36,6 +36,6 @@ pagination:
 <center><b> Mendoza Villarroel, Alexis Aldo </b></center>
 ---
 
-|![Nombre](../../../images/alexis.jpg "Alexis Mendoza")|
+|![Nombre](../../../images/Alexis.jpg "Alexis Mendoza")|
 |:--:|
 |*Sublíder del equipo de Desarrollo*|

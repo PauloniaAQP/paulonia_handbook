@@ -78,7 +78,7 @@ Tenga presente que no puede obviar ninguno de los puntos a leer, dado que esto p
 Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará de actualizar el calendario de vacaciones.
 
 > **¡Ten cuidado!**
->> <p style="text-align:right;">''Tu anuncio nos indica y confirma tu periodo de vacaciones. Esto nos ayudará a tener una mejor organización. En caso no se perciba la información requerida en tu anuncio, se te perdirá actualizarlo''</p> 
+>> <p style="text-align:right;">''Tu anuncio nos indica y confirma tu periodo de vacaciones. Esto nos ayudará a tener una mejor organización. En caso no se perciba la información requerida en tu anuncio, se te pedirá actualizarlo''</p> 
 
 ## 4. Antes de partir
 #### Miembros de equipo
@@ -106,6 +106,11 @@ Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará 
 + Si una campaña de reclutamiento está o estará en progreso, coordine con el COO para confirmar que este tomará decisiones por usted.
 
 #### CTO
+
++ Si hay alguna tarea de investigación tecnológica asignada al CTO, entonces debe terminarla antes de su salida. Si no es posible, dejar a un encargado según la prioridad de la tarea.
+    + Si la tarea de investigación tecnológica está asignada otra persona, coordinar cuándo se hará la revisión si antes o después de la salida del CTO.
++ Antes de su salida, terminar cualquier tarea prioritaria asignada al CTO que no pueda hacer otra persona: Update de correos, pago de dominios, rotaciones de seguridad, implementaciones críticas, etc.
++ El CTO es el principal encargado de guiar al momento de una brecha de seguridad o cualquier alerta que requiera intervención inmediata. Por lo tanto, el CTO debe mantener un canal de comunicación abierto para estas situaciones (Llamada por celular). En ese momento el CTO se encargará del problema o de delegar tareas inmediatas.
 
 #### CCO
 + Define un encargado para la comunicación y toma de requerimientos de los clientes, por lo general estas responsabilidades las asume el gerente de ventas.
