@@ -6,8 +6,11 @@ quote:
     authorPosition: UX Designer (Paulonia Co-founder)
 pagination:
     next:
-        link: ../../areas/personal
-        name: Personal
+        link: ../recruitment
+        name: Reclutamiento
+    previous:
+        link: ../scrum
+        name: SCRUM
 ---
 
 ## Introducción

@@ -1,6 +1,10 @@
 ---
 title: Reclutamiento (Team leads)
 lead: true
+pagination:
+    previous:
+        link: ../recruitment
+        name: Reclutamiento
 ---
 
 **¡Bienvenidos Team Leads y Reclutadores!**
