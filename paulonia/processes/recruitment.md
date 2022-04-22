@@ -8,6 +8,9 @@ pagination:
     previous:
         link: ../vacation
         name: Vacaciones
+    next:
+        link: ../recruitmentleads
+        name: Reclutamiento (Team leads)    
 ---
 
 **¿Tienes el talento de crear? ¡Eres la persona que esperamos!**
