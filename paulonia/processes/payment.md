@@ -1,6 +1,9 @@
 ---
 title: Pagos
-lead: true
+pagination:
+    previous:
+        link: ../recruitmentleads
+        name: Reclutamiento (Team leads)    
 ---
 
 Los pagos se realizan luego de la firma del contrato. Es importante leer todas las secciones antes de realizar cualquier depósito, debido a que para algunos montos se pueden aplicar detracciones (solo clientes Perú).
@@ -25,8 +28,8 @@ Los comprobantes se emitirán por cada depósito que haga el cliente. Antes de r
 
 ## Detracciones
 Si el pago total o parcial (cuando los clientes dan un adelanto) supera los 700 soles o 188 USD, se debe realizar un depósito a la cuenta de detracciones de Paulonia. El monto a depositar es el 12%, y el restante se depositará a la cuenta Interbank de Paulonia. Primero debe realizar el deposito a la cuenta de Paulonia, se emita la factura y con esta podrá realizar el pago de las detracciones. Luego de esto, se debe enviar el comprobante a **central@paulonia.dev** con el asunto PAGO DETRACCIONES.
-Para más información sobre como realizar el pago de detracciones revisar el siguiente video:
-https://www.youtube.com/watch?v=LwowTa0Xiaw
+Para más información sobre como realizar el pago de detracciones revisar [este video tutorial](https://www.youtube.com/watch?v=LwowTa0Xiaw).
+
 
 
 ## Envío de comprabante y facturación

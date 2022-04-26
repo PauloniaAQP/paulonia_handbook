@@ -2,6 +2,9 @@
 title: Reclutamiento (Team leads)
 lead: true
 pagination:
+    next:
+        link: ../payment
+        name: Pagos
     previous:
         link: ../recruitment
         name: Reclutamiento
