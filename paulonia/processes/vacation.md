@@ -82,7 +82,7 @@ Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará 
 
 ## 4. Antes de partir
 #### Miembros de equipo
-+ Coloque en su estado de Slack, Whatsapp o cualquier otra plataforma **De vacaciones**
++ Coloque en su estado de Slack o cualquier otra plataforma **De vacaciones**
 + Entre dos o 4 días antes, vuelva a avisar a todo el equipo que se irá de vacaciones.
 + Verifique que se ha actualizado el calendario con sus fechas solicitadas.
 
@@ -160,7 +160,7 @@ Recuerde que, independiente de la modalidad de vacaciones especiales que decida 
 
 ## 6. Descansos médicos
 Adicional al proceso de [solicitud de vacaciones](#2-solicitar-vacaciones) mencionados anteriormente, usted debe considerar:
-+ Informe a todo el equipo de trabajo de su área y a su Lead con caracter de **urgencia** utilizando el canal Slack  "el nombre" [TODO]. 
++ Informe a todo el equipo de trabajo de su área y a su Lead con caracter de **urgencia** utilizando el canal Slack  [Announcements](https://paulonia.slack.com/archives/C02LV4BLQLF). 
 + Informe las tareas que tienen tiempo límite o de entrega, cuyo riesgo de no cumplirse sea alto.
 + Es RECOMENDABLE presentar una constancia que acredite su descanso médico. Este documento debe ser presentado a Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#))
 
