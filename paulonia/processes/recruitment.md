@@ -111,6 +111,9 @@ Los aspectos generales a calificar serán los siguiente:
 + **Desarrolladores Móviles**
     + **Buenas prácticas de programación**: Es requerido que se tenga buenas prácticas a la hora de crear líneas de código, desde estructuración y organización de proyectos, hasta la semántica y sintáctica implicada (variables, estados, clases, etc.)
     + **Contribución Open Source**: Es **deseable** que el postulante haya tenido al menos una contribución a un proyecto Open Source, en donde se evaluará la complejidad de su aporte.
+    + **Conocimientos de programación en Dart**: Es requerido que el postulante tenga conocimiento de las bases del lenguaje de programación en dart, ya que este es usado en el framework de Flutter.
+    + **Programación orientada a objetos**: Aprender las bases de la programación orientada a objetos es necesario antes de empezar una aplicación en Flutter. Los objetos son la clave para entender el framework de Flutter.
+    + **Entender el framework de Flutter**: Para ello se requiere que el postulante conozca los widgets básicos (Scaffold, Row, Column, Container ...), la diferencia entre stateful y stateless widgets, como agregar paquetes y saber lo básico de programación asíncrona (async, await y futures).
 
 + **Diseñadores UX/UI**
     + **Diseño básico**: Todo postulante debe conocer conceptos de colores, jerarquía, etc., y cómo y donde aplicarlos.
