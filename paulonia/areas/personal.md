@@ -8,46 +8,34 @@ pagination:
 ---
 
 ---
-<center><b>Area's name</b></center>
+<center><b> Chavez Carazas, Christofer Fabián </b></center>
 ---
 
-<a href="https://pub.dev/packages/paulonia_utils"><img src="https://github.com/gabeee28/gabeee28/blob/main/Paulonia_utils.png" /></a>&nbsp;
-
-| Chavez Cruz Jhunior |
+|![Nombre](../../../images/Christofer.jpg "Christofer Chavez")|
 |:--:|
-|![Nombre](../../../images/logo-xs.png "Nombre")|
-|*Studio Lead*|
+|*Líder del equipo de Desarrollo y Cloud*|
 
-| Chavez Cruz Jhunior |
-|:--:|
-|![Nombre](../../../images/logo-xs.png "Nombre")|
-|*Studio Lead*|
 
 ---
-<center><b>Area's name</b></center>
+<center><b> Chavez Cruz, Jhunior Kenyi </b></center>
 ---
 
-| Chavez Cruz Jhunior |
+|![Nombre](../../../images/Jhunior.jpg "Jhunior Chavez")|
 |:--:|
-|![Nombre](../../../images/logo-xs.png "Nombre")|
-|*Studio Lead*|
-
-| Chavez Cruz Jhunior |
-|:--:|
-|![Nombre](../../../images/logo-xs.png "Nombre")|
-|*Studio Lead*|
+|*Líder del equipo de Diseño :: Jefe de Recursos Humanos*|
 
 ---
-<center><b>Area's name</b></center>
+<center><b> León Camino, Juan José </b></center>
 ---
 
-| Chavez Cruz Jhunior |
+|![Nombre](../../../images/Juan.jpg "Juan León")|
 |:--:|
-|![Nombre](../../../images/logo-xs.png "Nombre")|
-|*Studio Lead*|
+|*Líder del equipo Comercial*|
 
-| Chavez Cruz Jhunior |
+---
+<center><b> Mendoza Villarroel, Alexis Aldo </b></center>
+---
+
+|![Nombre](../../../images/Alexis.jpg "Alexis Mendoza")|
 |:--:|
-|![Nombre](../../../images/logo-xs.png "Nombre")|
-|*Studio Lead*|
-
+|*Sublíder del equipo de Desarrollo*|
