@@ -1,10 +1,5 @@
 ---
 title: Personal Paulonia
-pagination:
-    next:
-    previous: 
-        link: ../../processes/vacation
-        name: Vacaciones
 ---
 
 ---

@@ -1,6 +1,9 @@
 ---
 title: SCRUM
 pagination:
+    next:
+        link: ../vacation
+        name: Vacaciones
     previous:
         link: ../
         name: Introducción
