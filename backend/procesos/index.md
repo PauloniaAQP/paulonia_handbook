@@ -1,6 +1,12 @@
 ---
 title: Procesos de planificación
-lead: false
+pagination:
+    next:
+        link: ./estructuracion
+        name: Estructuración
+    previous:
+        link: ../roles
+        name: Roles
 ---
 
 ## Etapa de investigación

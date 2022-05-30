@@ -1,6 +1,9 @@
 ---
 title: Procesos de mantenimiento
-lead: false
+pagination:
+    previous:
+        link: ../desarrollo
+        name: Desarrollo
 ---
 
 ## Mantenimiento (producción)
