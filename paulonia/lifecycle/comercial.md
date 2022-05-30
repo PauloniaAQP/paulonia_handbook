@@ -1,10 +1,10 @@
 ---
-title: Ciclo de vida
+title: Comercial
 pagination:
     next: 
         link: ../maintenance 
         name: Mantenimiento
     previous:
-        link: ../
-        name: Introducción
+        link: ../index
+        name: Ciclo de vida
 ---
