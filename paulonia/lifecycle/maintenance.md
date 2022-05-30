@@ -5,8 +5,8 @@ pagination:
         link: ../frequestions
         name: Preguntas
     previous:
-        link: ../index
-        name: Ciclo de vida
+        link: ../comercial 
+        name: Comercial
 ---
 
 La fase de mantenimiento comprende únicamente al proceso de cambiar, modificar o actualizar un proyecto, bajo el principio de siempre atender la necesidad de los usuarios o conservar la estabilidad del sistema. Cabe recalcar que este proceso **inicia luego del despliegue en el mercado del proyecto** (haya sido realizado por Paulonia o no), pues es aquí donde se presentarán problemas o errores, o se pretende mejorar el rendimiento y desempeño del proyecto, entre otros procesos.
