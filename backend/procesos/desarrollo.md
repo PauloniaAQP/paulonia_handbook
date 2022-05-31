@@ -1,6 +1,12 @@
 ---
 title: Procesos de desarrollo
-lead: false
+pagination:
+    next:
+        link: ../mantenimiento
+        name: Mantenimiento
+    previous:
+        link: ../estructuracion
+        name: Estructuración
 ---
 
 ## Desarrollo del backend

@@ -1,6 +1,12 @@
 ---
 title: Roles
-lead: false
+pagination:
+    next:
+        link: ../procesos
+        name: Planificación
+    previous:
+        link: ../
+        name: Introducción
 ---
 
 ## Team lead

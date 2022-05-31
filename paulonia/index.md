@@ -7,7 +7,7 @@ pagination:
         name: Ciclo de vida
 ---
 
-Hemos creado este manual, bajo los principios de la transparencia y motivación de estar transformando continuamente la forma en la dirigimos la empresa, para así mejorar nuestra capacidad de crear, expandirnos y brindar la mejor experiencia a nuestros clientes y compañeros de trabajo.
+Hemos creado este manual, bajo los principios de la transparencia y motivación de estar transformando continuamente la forma en la que dirigimos la empresa, para así mejorar nuestra capacidad de crear, expandirnos y brindar la mejor experiencia a nuestros clientes y compañeros de trabajo.
 
 Este manual no habla de como configurar su espacio de trabajo o dónde encontrar el código fuente o diseño de un proyecto. Este manual habla de estructuras, procesos, roles, etc. (básicamente como referencia a lo largo de la duración de su trabajo), y es casi en su totalidad público, mantenimiendo solo temas necesarios para permanecer privados.
 

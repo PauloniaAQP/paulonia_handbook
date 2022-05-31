@@ -1,6 +1,12 @@
 ---
 title: Procesos de estructuración
-lead: false
+pagination:
+    next:
+        link: ../desarrollo
+        name: Desarrollo
+    previous:
+        link: ../
+        name: Planificación
 ---
 
 ## Estructuración inicial de la base de datos
