@@ -31,7 +31,7 @@ En este documento se describen los pasos a seguir en cada fase de reclutamiento,
 ## Consideraciones iniciales
 A lo largo de este proceso los postulantes serán evaluados como persona y como profesional, dando la misma importancia a las habilidades blandas como habilidades duras. Este proceso puede durar bastantes días, dependiendo del puesto y perfil profesional que se requiera. En caso un postulante no sea admitido... ¡tranquilo! quedará registrado en nuestra de datos de contacto y será uno de los primeros en enterarse de nuevas postulaciones, noticias, eventos y más. 
 
-[Nuestros puestos disponibles]()
+[comment]: # [Nuestros puestos disponibles]()
 
 ## Proceso de reclutamiento 
 Este proceso se desglosa en 6 fases o pasos, en los cuales el postulante pasará por formularios, entrevistas y capacitaciones
@@ -116,8 +116,11 @@ Los aspectos generales a calificar serán los siguiente:
     + **Entender el framework de Flutter**: Para ello se requiere que el postulante conozca los widgets básicos (Scaffold, Row, Column, Container ...), la diferencia entre stateful y stateless widgets, como agregar paquetes y saber lo básico de programación asíncrona (async, await y futures).
 
 + **Diseñadores UX/UI**
-    + **Diseño básico**: Todo postulante debe conocer conceptos de colores, jerarquía, etc., y cómo y donde aplicarlos.
+    + **Diseño básico**: Todo postulante debe conocer conceptos de colores, jerarquía, etc., y cómo y donde aplicarlos (gestión de contenido/arquitectura de la información).
     + **Diseño multiplataforma**: Deben conocer de diseño Android, iOS y Web, y las barreras o bondades que presente cada plataforma.
+    + **Conocimientos básicos de Test**: Los postulantes deben poseer habilidad comunicativas así como analíticas para poder validar un producto digital, de forma teórica y práctica.
+    + **Prototipado intermedio**: Ya sea como maquetado a baja, media o alta fidelidad, los postulantes deben poder realizar prototipos interactivos de forma física o digital. 
+    + **Patrones de diseño UX/UI y Design System**: Ante la llegada de un proyecto de gran envergadura, que necesite plasmar su identidad de marca en un app digital y fácilmente pueda pasarse este proyecto entre diseñadores. 
 
 Los postulantes serán calificados de 0.0 a 5.0 por cada punto a discutir, donde 0.0 significa que no se ha hallado ninguna información relevante, y 5.0 que cumple el punto en su totalidad.
 
