@@ -51,7 +51,7 @@ deben ser parte de un nuevo miembro.
     - <https://material.io/design/sound/applying-sound-to-ui.html#sound-use-cases>
 
 ### Diseño UX
-
+### Diseño UI
 - Navegación
     - <https://material.io/components/bottom-navigation#behavior> (Diferencias
       entre la navegación iOS y Android)
