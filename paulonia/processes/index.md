@@ -7,7 +7,7 @@ pagination:
         name: SCRUM
 ---
 
-A veces, los procesos descritos en este manual, puede no coincidir con la forma en la que se maneja Paulonia en la actualidad, pero estamos seguros que cuando aparezcan nuevos problemas, Paulonia se encargará de encontrar una solución, definiendo un proceso de la mano de todos sus colaboradores.
+En Paulonia estamos mejorando constantemente, esto significa que nuestros procesos se van actualizando hasta llegar a su versión más óptima. Estamos seguros que cuando aparezcan nuevos problemas, Paulonia se encargará de encontrar una solución, definiendo un proceso de la mano de todos sus colaboradores.
 
 Tal vez vea que existen áreas y procesos de la empresa en las que se necesite más atención que otras, ¿qué debemos hacer al respecto? ¿son buenas las diferenciales? Esta sección describe los procesos en los que creemos, podrán ayudarte, o ser como guía en tu aventura con nosotros.
 
