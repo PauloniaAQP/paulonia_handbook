@@ -1,121 +1,108 @@
 ---
 title: Miembros, roles y funciones
 pagination:
-    next:
-        link: ../entrenamiento
-        name: Entrenamiento
-    previous:
-        link: ../organizacion
-        name: Organización
+  previous:
+      link: ../
+      name: Introducción
 ---
 
-## Funciones
+## Team lead
 
-En Paulonia Studio no se manejan puestos de trabajo, ni títulos vinculados a clasificaciones
-como tal. A cambio y en pro de la diversificación y promoviendo el
-entrenamiento de multitareas, usaremos roles, que todos los miembros comparten.
+Es la persona encargada de todo el área de Paulonia Studio. Tiene las siguientes responsabilidades:
 
-### Funciones de mi CEO
+- Asignar los diferentes roles a cada miembro del equipo de Paulonia Studio.
+- Es la persona encargada de que todo lo descrito en este handbook sea cumplido.
+- Tener reuniones 121 con los diferentes miembros del equipo para conocer su situación laboral y personal.
+- Ser proactivo en cuanto a ideas de mejora tecnológica y de procesos de la empresa.
+- Es la persona encargada de documentar la mayoría de procesos del equipo de Paulonia Studio, así como procesos y
+  documentación técnica.
+- Crear tareas de DevOps, documentación y de mejora de procesos de la empresa.
+- Promover una cultura organizacional sólida.
 
-- Será el principal reconocedor y celebrador de mi trabajo.
-- Sabrá crear un ambiente laboral positivo y alegre.
-- Actuará con moral y ética frente a los nuevos proyectos.
-- Promoverá una cultura organizacional sólida.
-- Actuará de forma decidida, aunque no siempre concuerde con los miembros
-  de mi equipo
-- Confiará y generará confianza entre y hacia todo mi equipo, logrando un
-  desenvolvimiento óptimo de todos
-- Desarrollará y alimentará las habilidades y competencias de todos los miembros
-  de mi equipo
-- Cuidará la buena relación con nuestros clientes y miembros de mi equipo
-- Administrará mis tareas y reuniones a lo largo de un sprint
+La persona elejida tiene que tener las siguientes características:
 
-### Lo que todos esperan de mi
+- Tiene que ser [Product designer](#product-designer) Senior, con experiencia en las tecnologías y metodologías a usar en el proyecto.
+- Tener experiencia y conocimiento de los diferentes procesos de la empresa en general.
+- Haber pasado antes por el rol de [Project lead](#project-lead).
+- Ser ordenado y proactivo.
+- Tener experiencia y/o motivación para documentar procesos.
+- Tener experiencia para crear épicas y/o tareas.
 
-- Cumpliré con todas las tareas que mi CEO programe, aunque estas demanden
-  trabajar fines de semana.
-- Asistiré a más del 90% de reuniones con miembros de mi equipo o áreas dentro
-  de Paulonia.
-- Propiciaré el uso del canal Slack de los proyectos en los cuales esté involucrado,
-  tanto para formular o responder preguntas de mi equipo u otras áreas.
-- Estaré dispuesto a sacrificar horas de mi fin de semana en caso exista un
-  reporte de error incurrido en mis acciones.
-- Comunicaré nuevas actualizaciones publicadas hacia las distintas áreas y
-  miembros de mi equipo, a través del canal Slack.
-- Me mantendré en constante estudio para mejorar mis habilidades y competencias,
-  apoyándome en mi CEO y equipo de trabajo.
-- Compartiré mi conocimiento con finalidad de ver a mi equipo y mi empresa
-  crecer.
-- Respetaré la estructura que se lleva en las herramientas de trabajo.
-- Mantendré mi propio control de calidad antes, durante y después de cada
-  actualización en un proyecto.
-- Respetaré la retroalimentación brindada por los clientes, miembros de mi
-  equipo, miembros de otras áreas y mi CEO.
-- Prepararé una documentación de calidad ante eventuales pruebas con usuarios
-  o solicitudes hacia mi cliente.
-- Asistiré a las reuniones de inicio de proyecto, a menos que circunstancias
-  personales me lo impidan.
-- Respetaré las funciones generales descritas en el [Handbook General de Paulonia](/{{site.handbooks_path}}/paulonia).
+## Project lead
 
-## Comunicación
+Es la persona encargada de guiar un proyecto en específico. Este rol también puede ser tomado por el [Team lead](#team-lead). Tiene las siguientes responsabilidades:
 
-Muy aparte del control del estado de mis tareas en JIRA, o canales de Slack, que
-suelen tener un tiempo de demora de 24 horas en tener respuestas, daré prioridad
-a las menciones hechas en los comentarios de herramientas como Figma. Estos
-comentarios deben ser respondidos de forma inmediata si me encuentro trabajando
-al mismo tiempo que el solicitante. En caso no estuviera presente para poder
-responderlo inmediatamente aplicaré la regla de las 24 horas.
+- Crear las épicas y las tareas correspondientes de un proyecto. Las tareas tienen que estar bien especificadas para que cualquier miembro del equipo (incluyendo el project lead) pueda entender y realizar la tarea. Además en cada ticket se debe colocar dependencias con otras tareas y links a documentación externa que ayude a entender mejor la tarea (Figma, documentos, videos, referencias, links a páginas, etc).
+- Asignar las tareas creadas a los miembros del equipo y asignar reviewers a cada una. Esto se debe realizar el miercoles de la segunda semana del sprint (o antes del sprint review) en coordinación con el project manager de la empresa.
+- Es el encargado de revisar el avance de las tareas en cada sprint.
+- Es el encargado de revisar las tareas en la columna `Ready` y pasarlas a la columna `Done`.
+- Es el encargado de hacer las coordinaciones y agendar reuniones (internos, otras áreas,  clientes, etc)
 
-Por otro lado, si tengo preguntas y encuentro al responsable trabajado al mismo
-tiempo que yo, lo citaré con una pregunta o comentario explicándolo en específico 
-y sin ambigüedades. En caso no estuviera presente, notificaré que he dejado
-comentarios a través del canal Slack.
+La persona elejida tiene que tener las siguientes características:
 
-¿Y si no tengo como citarlo a través de la herramienta empleada? En caso esta
-persona no pueda ser citada, siempre tendré el tablero Jira y mi tarea para citarlo,
-adicionalmente tengo el canal Slack, y el chat privado para una respuesta más
-rápida.
+- Tiene que ser [Product Designer](#product-designer), con experiencia en las tecnologías y metodologías a usar en el proyecto.
+- Tener conocimiento de los procesos ágiles que se siguen en la empresa.
+- Haber pasado antes por un rol de diseñador y reviewer.
+- Ser muy ordenado como para hacerce responsable de las épicas y tareas de un proyecto.
+- Tener experiencia y/o motivación para la especificación y planificación de épicas y tareas.
 
-Por ningún motivo debe existir textos que simulen un chat dentro de la herramienta
-para desarrollar un proyecto, por lo que eliminaré estos intentos de chats de forma
-inmediata, y aceptando mi responsabilidad en caso quede al descubierto. Así mismo,
-si existe un tema de interés en todo mi equipo, este será prioritariamente publicado
-en el canal Slack.
+## Product Designer
 
-## Roles
+Es un miembro del equipo que vela por las necesidades del diseño del producto en general y a la vez vela por las estrategias de negocio detrás del producto. Este rol también puede ser tomado por el Team lead o el Project lead. Tiene las siguientes responsabilidades:
 
-Aunque se me haya nombrado para un puesto permanente, no me sentiré atrapado
-en él en caso no me sienta cómodo. En caso esto llegue a suceder, comunicaré
-mis deseos ante mi CEO para discutirlo abiertamente con otros miembros de mi
-equipo.
+- El Product designer tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
+- El Product designer se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitar cualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,comunicarlo inmediatamente al project lead o al reviewer de la tarea.
 
-En caso quiera migrar entre diseñador UX y UI, tendré que buscar un reemplazo
-durante el periodo de transición, siempre y cuando ambas partes quedemos cómodos
-con la decisión.
+La persona elejida tiene que tener las siguientes características:
 
-Debo tener en cuenta que roles que impliquen conocimiento o contexto previo, deben
-ser tomados con cuidado, ya que es muy probable no se encuentre un reemplazo
-con un nivel similar o superior.
+- Tiene que ser [UX Designer](#ux-designer), con experiencia en las tecnologías y metodologías a usar en el proyecto.
+- Tener conocimiento de los procesos ágiles que se siguen en la empresa.
+- Haber pasado antes por un rol de diseñador y reviewer.
+- Tener la capacidad de ofrecer soluciones bajo una idea de negocio.
+- Tener la capacidad de adelantarse a sucesos (técnicos o de negocio) que puedan afectar al proceso general de diseño.
+- Tener la capacidad de comunicarse y transimitir ideas dentro y fuera del equipo.
 
-### Soy mentor
+## UX Designer
 
-Dada mi amplia experiencia, seré capaz de instruir y ayudar en la fase de 
-entrenamiento de un nuevo ingresante. Como mentor haré lo siguiente:
+Es un miembro del equipo que tenga asignada una tarea relacionada al diseño de experiencia (UX) de producto. Este rol también puede ser tomado por el Team lead, Project lead o Product designer. Tiene las siguientes responsabilidades:
 
-- Coordinaré tiempos disponibles para una comunicación síncrona y asíncrona
-  con el nuevo ingresante.
-- Instruiré en la herramienta que se empleará en un proyecto, indicando su
-  estructura y las mejores y óptimas maneras de desarrollarlo.
-- Brindaré fuentes de recursos para una trabajo estandarizado.
+- El diseñador UX tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
+- El diseñador UX/UI se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitarcualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,comunicarlo inmediatamente al project lead o al reviewer de la tarea.
 
-### !Soy nuevo!
+La persona elejida tiene que tener las siguientes características:
 
-Si recién me he integrado en el equipo es imperativo cumplir los siguientes puntos:
+- Tener la capacidad de diseñar centrado en el usuario.
+- Tener conocimiento y habilidades en las tecnologías y metodologías que demande el proyecto.
+- Ser ordenado en su espacio de trabajo.
+- Tener la capacidad de comunicarse y transimitir ideas dentro y fuera del equipo.
 
-- Preguntaré a mi CEO o equipo si falta información de los requisitos.
-- Proporcionaré los avances a mi CEO para que pueda brindar ayuda oportuna.
-- Registraré el tiempo dedicado en mi entrenamiento.
-- Recopilaré los problemas con mis tareas o herramientas empleadas en el
-  desarrollo de un proyecto para posteriormente informar a mi CEO.
-- No me comprometeré en realizar tareas con un Score mayor a 13.
-- Reportaré si mis tareas tienen dependencias a otras.
+## UI Designer
+
+Es un miembro del equipo que tenga asignada una tarea relacionada al diseño de interfaces (UI) de producto. Tiene las siguientes responsabilidades:
+
+- El diseñador UI  tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
+- El diseñador UI se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitarcualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,comunicarlo inmediatamente al project lead o al reviewer de la tarea.
+
+La persona elejida tiene que tener las siguientes características:
+
+- Tener la capacidad de diseñar bajo patrones de diseño, tendencias y accesibilidad.
+- Tener conocimiento y habilidades en las tecnologías y metodologías que demande el proyecto.
+- Ser ordenado en su espacio de trabajo.
+- Tener la capacidad de comunicarse y transimitir ideas dentro y fuera del equipo.
+
+## Reviewer
+
+Es cualquier miembro del equipo que tenga que revisar una tarea. Este rol también puede ser tomado por el Team lead y el Project lead. Tiene las siguientes responsabilidades:
+
+- El reviewer se compromete a revisar el diseño/tarea de otro diseñador de manera consciente.
+
+## !Soy nuevo!
+
+Es un miembro que acaba de incorporase al equipo. Tiene las siguientes responsabilidades:
+
+- Preguntar al [Project lead](#project-lead) o [Team lead](#team-lead) si falta información de los requisitos.
+- Proporcionar los avances a mi [Project lead](#project-lead) para que pueda brindar ayuda oportuna.
+- Registrar el tiempo dedicado en mi entrenamiento.
+- Recopilar los problemas con mis tareas o herramientas empleadas en el desarrollo de un proyecto para posteriormente informar a mi [Project lead](#project-lead).
+- No comprometerse a realizar tareas con un Score mayor a 13.
+- Reportar si tiene dependencias en sus tareas.
