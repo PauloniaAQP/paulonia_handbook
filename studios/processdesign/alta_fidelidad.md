@@ -1,23 +1,17 @@
 ---
 title: 4. Interfaces de Alta fidelidad - UI
-#quote:
-    #content: Users do not care about what is inside the box,
-             #as long as the box does what they need done.
-    #author: Jef Raskin
-    #authorPosition: about Human Computer Interfaces
 pagination:
-    next:
-        link: ../testing
-        name: 5. Testing 
-    previous:
-        link: ../media_fidelidad
-        name: 3. UX
+  next:
+    link: ../testing
+    name: 5. Testing 
+  previous:
+    link: ../media_fidelidad
+    name: 3. UX
+  
 ---
 - **Input necesario:**
   - Documento de requerimientos
-  - Formulario **[Briefing](https://form.jotform.com/221434741955660)** enviado por el cliente
   - Documento con la petición de recursos iniciales enviado por el cliente
-  - Entorno de trabajo configurado
   - Benchmarking plasmado en el entorno de trabajo
   - Interfaces de Media Fidelidad validadas con el cliente
 

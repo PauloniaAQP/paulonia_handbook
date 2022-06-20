@@ -10,50 +10,49 @@ pagination:
 
 Es la persona encargada de todo el área de Paulonia Studio. Tiene las siguientes responsabilidades:
 
+- Es la persona encargada de velar por el cumplimiento del Paulonia Studio Handbook.
 - Asignar los diferentes roles a cada miembro del equipo de Paulonia Studio.
-- Es la persona encargada de que todo lo descrito en este handbook sea cumplido.
-- Tener reuniones 121 con los diferentes miembros del equipo para conocer su situación laboral y personal.
 - Ser proactivo en cuanto a ideas de mejora tecnológica y de procesos de la empresa.
 - Es la persona encargada de documentar la mayoría de procesos del equipo de Paulonia Studio, así como procesos y
   documentación técnica.
-- Crear tareas de DevOps, documentación y de mejora de procesos de la empresa.
+- Crear tareas de DesignOps, documentación y de mejora de procesos de la empresa.
 - Promover una cultura organizacional sólida.
 
-La persona elejida tiene que tener las siguientes características:
+La persona elegida debe tener las siguientes características:
 
-- Tiene que ser [Product designer](#product-designer) Senior, con experiencia en las tecnologías y metodologías a usar en el proyecto.
+- Ser [Product designer](#product-designer) Senior, con experiencia en las tecnologías y metodologías empleadas en el área.
 - Tener experiencia y conocimiento de los diferentes procesos de la empresa en general.
 - Haber pasado antes por el rol de [Project lead](#project-lead).
 - Ser ordenado y proactivo.
 - Tener experiencia y/o motivación para documentar procesos.
-- Tener experiencia para crear épicas y/o tareas.
+- Tener experiencia para crear épicas, historias de usuario, tareas y subtareas.
 
 ## Project lead
 
 Es la persona encargada de guiar un proyecto en específico. Este rol también puede ser tomado por el [Team lead](#team-lead). Tiene las siguientes responsabilidades:
 
-- Crear las épicas y las tareas correspondientes de un proyecto. Las tareas tienen que estar bien especificadas para que cualquier miembro del equipo (incluyendo el project lead) pueda entender y realizar la tarea. Además en cada ticket se debe colocar dependencias con otras tareas y links a documentación externa que ayude a entender mejor la tarea (Figma, documentos, videos, referencias, links a páginas, etc).
-- Asignar las tareas creadas a los miembros del equipo y asignar reviewers a cada una. Esto se debe realizar el miercoles de la segunda semana del sprint (o antes del sprint review) en coordinación con el project manager de la empresa.
-- Es el encargado de revisar el avance de las tareas en cada sprint.
-- Es el encargado de revisar las tareas en la columna `Ready` y pasarlas a la columna `Done`.
-- Es el encargado de hacer las coordinaciones y agendar reuniones (internos, otras áreas,  clientes, etc)
+- Crear las épicas, historias de usuario y las tareas correspondientes de un proyecto. Los tickets de estas tareas deben tener una correcta especificación, para que cualquier miembro del equipo (incluyendo el Project Lead) pueda entenderla y realizarla. Además, en cada ticket se debe colocar dependencias con otras tareas y links a documentación externa que ayude a entender mejor la tarea (Archivos de diseño, documentos, archivos multimedia, referencias, links a páginas, etc).
+- Asignar las tareas creadas a los miembros del equipo y asignar reviewers a cada una. Esto se debe realizar entre jueves y viernes de cada segunda semana de Sprint (antes del Sprint Review), en coordinación con el Project Manager de la empresa.
+- Revisar el avance de las tareas en cada Sprint.
+- Revisar las tareas en la columna `Ready` y pasarlas a la columna `Done`.
+- Realizar coordinaciones y agendar reuniones (internas, entre otras áreas, con clientes, etc.)
 
-La persona elejida tiene que tener las siguientes características:
+La persona elegida debe tener las siguientes características:
 
-- Tiene que ser [Product Designer](#product-designer), con experiencia en las tecnologías y metodologías a usar en el proyecto.
+- Ser [Product designer](#product-designer) Senior, con experiencia en las tecnologías y metodologías empleadas en el área.
 - Tener conocimiento de los procesos ágiles que se siguen en la empresa.
 - Haber pasado antes por un rol de diseñador y reviewer.
-- Ser muy ordenado como para hacerce responsable de las épicas y tareas de un proyecto.
-- Tener experiencia y/o motivación para la especificación y planificación de épicas y tareas.
+- Ser muy ordenado como para hacerse responsable de las épicas, historias de usuario y tareas de un proyecto.
+- Tener experiencia y/o motivación para la especificación y planificación de épicas, historias de usuarios y tareas.
 
 ## Product Designer
 
 Es un miembro del equipo que vela por las necesidades del diseño del producto en general y a la vez vela por las estrategias de negocio detrás del producto. Este rol también puede ser tomado por el Team lead o el Project lead. Tiene las siguientes responsabilidades:
 
 - El Product designer tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
-- El Product designer se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitar cualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,comunicarlo inmediatamente al project lead o al reviewer de la tarea.
+- El Product designer se compromete a cumplir con todas sus tareas asignadas antes del fin del Sprint para evitar cualquier tipo de retrasos. Si a mitad del Sprint se da cuenta de que no va a poder terminar alguna tarea, debe comunicarlo inmediatamente al Project Lead o al Reviewer de la tarea.
 
-La persona elejida tiene que tener las siguientes características:
+La persona elegida debe tener las siguientes características:
 
 - Tiene que ser [UX Designer](#ux-designer), con experiencia en las tecnologías y metodologías a usar en el proyecto.
 - Tener conocimiento de los procesos ágiles que se siguen en la empresa.
@@ -64,15 +63,15 @@ La persona elejida tiene que tener las siguientes características:
 
 ## UX Designer
 
-Es un miembro del equipo que tenga asignada una tarea relacionada al diseño de experiencia (UX) de producto. Este rol también puede ser tomado por el Team lead, Project lead o Product designer. Tiene las siguientes responsabilidades:
+Es un miembro del equipo que tenga asignada una tarea relacionada al diseño de experiencia (UX) de producto. Este rol también puede ser tomado por el Team Lead, Project Lead o Product Designer. Tiene las siguientes responsabilidades:
 
-- El diseñador UX tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
-- El diseñador UX/UI se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitarcualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,comunicarlo inmediatamente al project lead o al reviewer de la tarea.
+- Tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
+- Cumplir con todas sus tareas asignadas antes del fin del Sprint para evitar cualquier tipo de retraso. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea, debe comunicarlo inmediatamente al Project Lead o al Reviewer de la tarea.
 
-La persona elejida tiene que tener las siguientes características:
+La persona elegida debe tener las siguientes características:
 
 - Tener la capacidad de diseñar centrado en el usuario.
-- Tener conocimiento y habilidades en las tecnologías y metodologías que demande el proyecto.
+- Tener conocimiento y habilidades en las tecnologías y metodologías que demande su rol.
 - Ser ordenado en su espacio de trabajo.
 - Tener la capacidad de comunicarse y transimitir ideas dentro y fuera del equipo.
 
@@ -80,10 +79,10 @@ La persona elejida tiene que tener las siguientes características:
 
 Es un miembro del equipo que tenga asignada una tarea relacionada al diseño de interfaces (UI) de producto. Tiene las siguientes responsabilidades:
 
-- El diseñador UI  tiene la obligación de cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
-- El diseñador UI se compromete a cumplir con todas sus tareas asignadas antes del fin del sprint para evitarcualquier tipo de retrasos. Si a mitad del sprint se da cuenta de que no va a poder terminar alguna tarea,comunicarlo inmediatamente al project lead o al reviewer de la tarea.
+- Cumplir sus tareas asignadas de la mejor forma posible, cumpliendo con lo descrito en cada tarea.
+- Cumplir con todas sus tareas asignadas antes del fin del Sprint para evitar cualquier tipo de retraso. Si a mitad del Sprint se da cuenta de que no va a poder terminar alguna tarea, debe comunicarlo inmediatamente al Project Lead o al Reviewer de la tarea.
 
-La persona elejida tiene que tener las siguientes características:
+La persona debe tener las siguientes características:
 
 - Tener la capacidad de diseñar bajo patrones de diseño, tendencias y accesibilidad.
 - Tener conocimiento y habilidades en las tecnologías y metodologías que demande el proyecto.
@@ -92,7 +91,7 @@ La persona elejida tiene que tener las siguientes características:
 
 ## Reviewer
 
-Es cualquier miembro del equipo que tenga que revisar una tarea. Este rol también puede ser tomado por el Team lead y el Project lead. Tiene las siguientes responsabilidades:
+Es cualquier miembro del equipo que tenga que revisar una tarea. Este rol también puede ser tomado por el Team Lead y el Project Lead. Tiene las siguientes responsabilidades:
 
 - El reviewer se compromete a revisar el diseño/tarea de otro diseñador de manera consciente.
 
@@ -104,5 +103,4 @@ Es un miembro que acaba de incorporase al equipo. Tiene las siguientes responsab
 - Proporcionar los avances a mi [Project lead](#project-lead) para que pueda brindar ayuda oportuna.
 - Registrar el tiempo dedicado en mi entrenamiento.
 - Recopilar los problemas con mis tareas o herramientas empleadas en el desarrollo de un proyecto para posteriormente informar a mi [Project lead](#project-lead).
-- No comprometerse a realizar tareas con un Score mayor a 13.
 - Reportar si tiene dependencias en sus tareas.

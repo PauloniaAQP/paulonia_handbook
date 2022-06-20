@@ -1,23 +1,17 @@
 ---
 title: 3. Interfaces de Media Fidelidad - UX
-#quote:
-    #content: Menos esfuerzos grandes cambios.
-    #author: Jef Raskin
-    #authorPosition: about Human Computer Interfaces
 pagination:
-    next:
-        link: ../alta_fidelidad
-        name: 4. UI
-    previous:
-        link: ../benchmark
-        name: 2. Research
+  next:
+    link: ../alta_fidelidad
+    name: 4. UI
+  previous:
+    link: ../benchmark
+    name: 2. Research
 ---
 
 - **Input necesario:**
   - Documento de requerimientos
-  - Formulario **[Briefing](https://form.jotform.com/221434741955660)** enviado por el cliente
   - Documento con la petición de recursos iniciales enviado por el cliente
-  - Entorno de trabajo configurado
   - Benchmarking plasmado en el entorno de trabajo
 
 - **Input opcional:**

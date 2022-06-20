@@ -2,12 +2,12 @@
 title: 1. Primer contacto 
 lead: true
 pagination:
-    next:
-        link: ../benchmark
-        name: 2. Research
-    previous:
-        link: ../
-        name: Proceso
+  next:
+    link: ../benchmark
+    name: 2. Research
+  previous:
+    link: ../
+    name: Proceso
 ---
 
 - **Input necesario:**

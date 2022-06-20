@@ -1,7 +1,6 @@
 ---
 title: Proceso de Diseño
 lead: true
-
 pagination:
     next:
         link: ./descubrimiento
