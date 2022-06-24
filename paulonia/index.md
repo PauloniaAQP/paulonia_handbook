@@ -13,5 +13,22 @@ Este manual no habla de como configurar su espacio de trabajo o dónde encontrar
 
 Cuando desee sugerir un cambio de este manual y por ende de Paulonia, abra un *Pull Request* en el repositorio, indicado en la sección [Contribuir](../contribute/index). Su solicitud de modificación solo debe actualizar una regla o proceso existente. En caso quiera crear una nueva regla o proceso, esta debe ser discutida inicialmente con el CEO de la empresa.
 
-> <p style="text-align:right;"> Estoy muy contento de darte la bienvenida a Paulonia. Si no quieres enloquecer en Paulonia, lee ese manual. <br /> Christofer Chavez</p>
+&nbsp;&nbsp;&nbsp;
+
+<center><b>NUESTRA MISIÓN</b></center>
+<center>Convertir grandes ideas en aplicaciones innovadoras, con un equipo especializado, creativo y feliz.</center>
+
+&nbsp;&nbsp;&nbsp;
+
+<center><b>NUESTRA VISIÓN</b></center>
+<center>Ser reconocidos a nivel latinoamericano como una empresa innovadora con un equipo que ame hacer bien su trabajo.</center>
+
+&nbsp;&nbsp;&nbsp;
+
+<center><b>NUESTROS VALORES</b></center>
+<center>Calidad | Innovación | Felicidad | Amigable | Eficiencia | Responsabilidad | Empatía | Trabajo colaborativo</center>
+
+&nbsp;&nbsp;&nbsp;
+
+> <p style="text-align:right;"> Estoy muy contento de darte la bienvenida a Paulonia. Si no quieres enloquecer en Paulonia, lee este manual. <br /> Christofer Chavez</p>
 <img align="right" src="../images/Christofer.jpg" width="100">
