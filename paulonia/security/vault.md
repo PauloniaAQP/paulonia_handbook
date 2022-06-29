@@ -5,7 +5,7 @@ pagination:
         link: ../vault_admins
         name: Vault para admins
     previous:
-        link: ../
+        link: ../security
         name: Seguridad
 ---
 
