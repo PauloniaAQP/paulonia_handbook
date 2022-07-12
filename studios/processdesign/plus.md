@@ -12,6 +12,6 @@ Esta etapa no es parte del proceso general de diseño, por eso la llamamos adici
   - Input ASO
 
 - **Output:**
-  - Reporte ASO?
+  - Reporte ASO
 
 En esta etapa obtendremos 
