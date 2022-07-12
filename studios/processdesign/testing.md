@@ -19,7 +19,7 @@ pagination:
 
 Para validar en términos de usabilidad y términos visuales tenemos una etapa de testing, cada proyecto y circunstancias demandan determinada técnica, decidir cual es la adecuada dependerá del [Project lead](../../roles/#project-lead).
 
-En Paulonia Studios testeamos nuestros productos bajo dos modalidades:
+En Paulonia Studios probamos nuestros productos bajo dos modalidades:
 
 - **Entrevistas:** Test moderado, interacción directa del entrevistador con el usuario basado en:
   - Tareas
