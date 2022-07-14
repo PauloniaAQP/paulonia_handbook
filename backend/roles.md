@@ -31,7 +31,7 @@ La persona elejida tiene que tener las siguientes características:
 
 ## Project lead
 
-Es la persona encargada de guiar un proyecto en específico. Este rol también puede ser tomado por el [Team lead](#teaml-lead). Tiene las siguientes responsabilidades:
+Es la persona encargada de guiar un proyecto en específico. Este rol también puede ser tomado por el [Team lead](#team-lead). Tiene las siguientes responsabilidades:
 
 - Crear las épicas y las tareas correspondientes de un proyecto. Las tareas tienen que estar bien especificadas
   para que cualquier miembro del equipo (incluyendo el project lead) pueda entender y realizar la tarea. Además en cada ticket se debe colocar dependencias con otras tareas y links a documentación externa que ayude a entender mejor la tarea (Figma, documentos, videos, links a código, etc).
