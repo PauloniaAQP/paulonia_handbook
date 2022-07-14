@@ -6,8 +6,8 @@ pagination:
         link: ./descubrimiento
         name: 1. Primer contacto
     previous:
-        link: ../
-        name: Introducción
+        link: ../roles
+        name: Roles
 ---
 
 En proceso de diseño se rige a 6 etapas las 5 primeras son obligatorias y la última opcional según el proyecto.

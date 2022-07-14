@@ -4,6 +4,9 @@ pagination:
   previous:
       link: ../
       name: Introducción
+  next:
+      link: ../processdesign/
+      name: Proceso
 ---
 
 ## Team lead

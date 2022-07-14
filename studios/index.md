@@ -1,5 +1,9 @@
 ---
-title: Manual Studio  
+title: Manual Studio
+pagination:
+  next:
+      link: ./roles
+      name: Roles
 ---
 
 ¡Bienvenido a Paulonia Studio, la carta de presentación de [Paulonia](/)!

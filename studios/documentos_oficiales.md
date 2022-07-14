@@ -1,5 +1,9 @@
 ---
 title: Documentos oficiales
+pagination:
+  previous:
+    link: ../processdesign/plus
+    name: 6. ASM
 ---
 
 Existe documentación oficial base y estándar, para algunas de las etapas de diseño. Algunas de las etapas de diseño requieren de los siguientes documentos:
@@ -12,7 +16,7 @@ El Briefing inicial tiene como propósito conocer de cerca y formalmente la idea
 
 - **Documento con la petición de recursos iniciales enviado por el cliente**
 
-Documento con las especificaciones(tamaños, formatos, logos, colores, etc...) de cada recurso que el cliente debe brindar.
+Documento con las especificaciones (tamaños, formatos, logos, colores, etc...) de cada recurso que el cliente debe brindar.
 
 ## Documentación etapa: Testing
 
