@@ -2,13 +2,13 @@
 title: Ciclo de vida
 pagination:
     next: 
-        link: ./comercial 
-        name: Comercial
+        link: ./maintenance
+        name: Mantenimiento
 ---
 
 El ciclo de vida de un proyecto está conformado por 4 fases o procesos, estos procesos parten desde el contacto del cliente hasta la fase de despliegue o mantenimiento.
 
-|![General Process](../../images/life-cycle.png "Maintenance process")|
+|![General Process](../../images/life-cycle.png "General process")|
 |:--:|
 |*Proceso de ciclo de vida*|
 
