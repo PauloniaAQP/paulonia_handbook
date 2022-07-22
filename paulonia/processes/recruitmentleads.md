@@ -1,5 +1,5 @@
 ---
-title: Reclutamiento (Team leads)
+title: Reclutamiento (Líderes de equipo)
 lead: true
 pagination:
     next:
@@ -10,11 +10,11 @@ pagination:
         name: Reclutamiento
 ---
 
-**¡Bienvenidos Team Leads y Reclutadores!**
+**¡Bienvenidos Líderes de equipo y Reclutadores!**
 
 En este documento encontrarán las pautas generales que cada uno ha de seguir ante el lanzamiento de una campaña de reclutamiendo de talento humano. A lo largo del documento encontrará los siguientes términos:
 + **Reclutador externo**: Trabajador del área de Recursos Humanos
-+ **Reclutador interno**: Team Leads de cada área de Paulonia (Development, Cloud y Studio)
++ **Reclutador interno**: Líderes de equipo de cada área de Paulonia (Development, Cloud y Studio)
 
 Tales términos serán empleados en todo el proceso de reclutamiento, tanto como los procesos empleadores como los de postulantes.
 
@@ -26,7 +26,7 @@ Tales términos serán empleados en todo el proceso de reclutamiento, tanto como
 ## Antes de la campaña de reclutamiento
 
 #### Solicitar la contratación de talento humano
-Tenga en cuenta que un Team Lead (reclutador interno desde ahora) no está autorizado a iniciar un proceso de reclutamiento y todo lo que implica, sin antes no haber solicitado esto a la Junta de Accionistas. Los pasos a seguir para esta solicitud son:
+Tenga en cuenta que un Líder de equipo (reclutador interno desde ahora) no está autorizado a iniciar un proceso de reclutamiento y todo lo que implica, sin antes no haber solicitado esto a la Junta de Accionistas. Los pasos a seguir para esta solicitud son:
 
 + Expresar la necesidad de talento humano en su área con un mínimo de 1 mes de anticipación
     + Ha de convocar a una reunión ordinaria o extraordinaria en el que tiene que estar más del 70% de la Junta de Accionistas
@@ -48,7 +48,7 @@ Tenga en cuenta que un Team Lead (reclutador interno desde ahora) no está autor
 
 #### Responsabilidades del Reclutador Externo
 + Una vez el reclutador externo haya sido notificado por la Junta de Accionistas para el lanzamiento de una campaña de reclutamiento, este está en la obligación de coordinar con el reclutador interno solicitante, para la especificación del nuevo perfil a buscar.
-+ Editar el [formulario de Paulonia]() agregando o disgregando campos de información.
++ Editar el [formulario de Paulonia](https://www.jotform.com/build/221574378396670?iak=cf2033b36889331300e69f26c7a8e908-31c94544b1a28f30) agregando o disgregando campos de información.
 + Planificiar y coordinar un plan estratégico para su difusión y aplicación.
 + Determinado el plan estratégico, el reclutador externo debe:
     + Coordinar con el área de Marketing y Diseño para la creación de contenidos multimedia
@@ -125,11 +125,11 @@ Recuerde que usted puede intervenir en cualquier proceso de esta fase. Usted:
 #### Responsabilidades del Reclutador Interno
 El reclutador externo está en la obligación de proporcionarle todo material de información de los postulantes seleccionados para la entrevista remota. Esta información tiene que ser para usted, la fuente de preguntas e intervenciones dentro de cada entrevista. 
 
-+ Debe guiarse del [guión de entrevista remota]() proporcionado por Paulonia en cada entrevista, asegurando que cada postulante reciba un trato justo e igualitario.
++ Debe guiarse del guión de entrevista remota [Documento en proceso]() proporcionado por Paulonia en cada entrevista, asegurando que cada postulante reciba un trato justo e igualitario.
     + No está obligado a seguirlo al pie de la letra, pero sí esta obligado a cumplir con todos los puntos a evaluar.
 + Debe grabar las entrevistas, pues estas ayudarán a la Junta de Accionistas a tomar una mejor decisión.
 + Debe calificar de 0.0 a 5.0 todos los puntos a evaluar. Recuerde que debe enfocarse en las habilidades duras sin dejar de lado las blandas.
-    + Por cada punto a evaluar, si usted detecta que el postulante se apega al perfil a buscar... TODO DEFINIR CON EL CEO
+    + Por cada punto a evaluar, si usted detecta que el postulante se apega al perfil a buscar
 + Una vez finalizadas las entrevistas, notifique al reclutador externo y Junta de Accionistas
 + Reúnase con el reclutador externo para cruzar los resultado de sus entrevistas y poder determinar los posibles postulantes a contratar.
 + Determine una lista de postulantes elegibles para presentar a la Junta de Accionistas. Esta lista puede ser enviada por correo o presentada en un reunión. En esta lista debe incluir:

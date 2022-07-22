@@ -1,13 +1,10 @@
 ---
 title: Documento de ejemplo
 quote:
-    content: The only difference between a problem and a solution is that people understand the solution
-    author: Charles F. Kettering
+    content: Frase a mencionar
+    author: Nombre del autor
     authorPosition: 1876 - 1958
 pagination:
-    next:
-        link: ../
-        name: Contribuir
     previous:
         link: ../constants
         name: Constantes

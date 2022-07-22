@@ -3,7 +3,10 @@ title: Preguntas frecuentes
 pagination:
     previous: 
         link: ../maintenance
-        name: Mantenimiento 
+        name: Mantenimiento
+    next:
+        link: ../../areas/personal
+        name: Personal
 ---
 
 ## Introducción
@@ -88,17 +91,13 @@ En este proceso también se analiza a fondo la complejidad y urgencia de resoluc
 
 Una vez analizada esta solicitud perfectiva, se puede tomar dos decisiones
 1. Realizarla, bajo el riesgo de exceder las horas límite de la [BOLSA](#%C2%BFqu%C3%A9-es-una-bolsa), que recae en el cobro de horas extras en la factura mensual del cliente.
-2. Crear una nueva fase de desarrollo [TODO]
+2. Crear una nueva fase de desarrollo.
 
 ## 3. Diseño y/o implementación
-#### No se me ocurren preguntas
-
-
+*Aún no tenemos preguntas frecuentes.*
 
 ## 4. Validación, verificación y aceptación de pruebas
-#### ¿Cómo saber si se realizó un control de validación y verificación?
-
-
+*Aún no tenemos preguntas frecuentes.*
 
 ## 5. Entrega y despliegue
 #### ¿Existe un pago extra por cada entregable?

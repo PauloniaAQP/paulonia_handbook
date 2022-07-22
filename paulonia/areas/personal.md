@@ -1,5 +1,12 @@
 ---
 title: Personal Paulonia
+pagination:
+    previous:
+        link: ../../lifecycle/frequestions
+        name: Preguntas
+    next:
+        link: ../../processes/
+        name: Procesos
 ---
 
 ---

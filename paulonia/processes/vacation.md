@@ -43,26 +43,26 @@ Para poder acceder al periodo vacacional tiene que tener en consideración los s
 Previo a tu solicitud de vacaciones, asegúrate de reservar el periodo de tus vacaciones.
 #### Pre-requisitos
 + Debe existir al menos 1 persona quien pueda atender tu área en los días que pretendes reservar.
-    + En caso seas el único y tengas la seguridad que tu área no es indispensable, consulta con tu Lead de área [TODO](lista de lead en la empresa)
+    + En caso seas el único y tengas la seguridad que tu área no es indispensable, consulta con tu [líder de área](../../areas/personal/#).
 + Tu reserva de vacaciones no debe ser inferior a 1 semana (5 días hábiles)
 + Tu reserva de vacaciones no debe exceder 3 semanas (15 días hábiles)
 
 #### Proceso
-1. Verifica en el [Calendario Paulonia](https://github.com/PauloniaAQP/paulonia_handbook/blob/main/contribute/example.md) si hay más personas de tu área que están tomando vacaciones los mismo días que tú. Recuerda cumplir el primer pre-requisito.
+1. Verifica en el [Calendario Paulonia](https://calendar.google.com/calendar/embed?src=c_kb5ha86596i4gd0cth9pmn9pt0%40group.calendar.google.com&ctz=America%2FLima) si hay más personas de tu área que están tomando vacaciones los mismo días que tú. Recuerda cumplir el primer pre-requisito.
 2. Reserva tus días de descanso con anticipación
     + Para 1 o 2 semanas de descanso, 2 semanas de anticipación
     + Para 3 semanas de descanso, 3 semanas de anticipación
-3. En caso tenga tareas por cumplir, designe un nuevo responsable o cumuníquese con su [Lead de área](../../areas/personal/#) para una reprogramación.
+3. En caso tenga tareas por cumplir, designe un nuevo responsable o cumuníquese con su [líder de área](../../areas/personal/#) para una reprogramación.
 4. No te olvides de [anunciarlo](#3-anunciar-vacaciones)
 
-¿No es lo que está buscando? [Lea las vacaciones especiales](#5-vacaciones-especiales))
+¿No es lo que está buscando? [Lea las vacaciones especiales](#5-vacaciones-especiales)
 
-#### Proceso adicional para Leads
+#### Proceso adicional para Líderes
 
-{:start="4"}
-4. Asegúrate de designar un nuevo revisor para las Epics, Stories y Tasks que tengas a cargo en Jira.
-5. Asegúrate de designar un nuevo responsable para la generación de Tasks de los trabajadores a tu cargo.
-6. Asegúrate de no tener una campaña de reclutamiento en progreso como reclutador interno.
+{:start="5"}
+5. Asegúrate de designar un nuevo revisor para las Epics, Stories y Tasks que tengas a cargo en Jira.
+6. Asegúrate de designar un nuevo responsable para la generación de Tasks de los trabajadores a tu cargo.
+7. Asegúrate de no tener una campaña de reclutamiento en progreso como reclutador interno.
     + Puedes designar un responsable, pero no se recomienda.
 
 > **¡Ten cuidado!**
@@ -78,7 +78,7 @@ Tenga presente que no puede obviar ninguno de los puntos a leer, dado que esto p
     + A que áreas internas u organizaciones externas se debe comunicar tu ausencia
 + Indique por cualquier medio extra que está de vacaciones (por ejemplo, estados de Slack: **Paulo: De vacaciones**)
 
-Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará de actualizar el calendario de vacaciones.
+Jhunior (encargado de Recursos Humanos) se encargará de actualizar el calendario de vacaciones.
 
 > **¡Ten cuidado!**
 >> <p style="text-align:right;">''Tu anuncio nos indica y confirma tu periodo de vacaciones. Esto nos ayudará a tener una mejor organización. En caso no se perciba la información requerida en tu anuncio, se te pedirá actualizarlo''</p> 
@@ -89,7 +89,7 @@ Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará 
 + Entre dos o 4 días antes, vuelva a avisar a todo el equipo que se irá de vacaciones.
 + Verifique que se ha actualizado el calendario con sus fechas solicitadas.
 
-#### Leads
+#### Líderes
 + Si un Sprint está por cerrarse y existe un Sprint Planning en el transcurso, debe coordinar con el CEO para la creación de tareas de todos sus trabajadores a cargo.
 + Coordina los proceso de reclutador interno en caso hayas designado a un responsable para una campaña de reclutamiento.
 + Si un Sprint está por cerrar y existe un Sprint Retrospective en el transcurso, debe dejar un video exponiendo todos sus logros durante el Sprint
@@ -101,7 +101,7 @@ Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#)) se encargará 
 
 #### COO
 + Advierta su ausencia enviando correos o haciendo llamadas directas:
-    + Teams Leads, advirtiendo la creación de las tareas de las personas a su cargo, así como responsabilidades de los reclutadores interno, en caso exista una campaña de reclutamiento.
+    + Líderes de equipo, advirtiendo la creación de las tareas de las personas a su cargo, así como responsabilidades de los reclutadores interno, en caso exista una campaña de reclutamiento.
     + Clientes o prospectos
     + Personal Administrativo, Recursos Humanos, Finanzas y Contabilidad 
     + COO, quien tendrá sus responsabilidades hasta su retorno, y CTO en caso el COO también este de vacaciones
@@ -158,14 +158,14 @@ Para solicitar días de descanso remunerados, usted debe notificar:
 1. Para 1 a 3 días de descanso, 3 días de antelación
 2. Para 4 días a 1 semana, 1 semana de antelación
 
-Recuerde que, independiente de la modalidad de vacaciones especiales que decida tomar, debe seguir todos los procesos del [proceso de solicitud](#proceso) y [anuncio](#3-anunciar-vacaciones) así como todos los siguientes a este.
+Recuerde que, independiente de la modalidad de vacaciones especiales que decida tomar, debe seguir todos los procesos del [proceso de solicitud](#proceso) y [anuncio](#3-anunciar-vacaciones) así como todos los siguientes a este.    
 
 
 ## 6. Descansos médicos
 Adicional al proceso de [solicitud de vacaciones](#2-solicitar-vacaciones) mencionados anteriormente, usted debe considerar:
-+ Informe a todo el equipo de trabajo de su área y a su Lead con caracter de **urgencia** utilizando el canal Slack  [Announcements](https://paulonia.slack.com/archives/C02LV4BLQLF). 
++ Informe a todo el equipo de trabajo de su área y a su líder con caracter de **urgencia** utilizando el canal Slack  [Announcements](https://paulonia.slack.com/archives/C02LV4BLQLF). 
 + Informe las tareas que tienen tiempo límite o de entrega, cuyo riesgo de no cumplirse sea alto.
-+ Es RECOMENDABLE presentar una constancia que acredite su descanso médico. Este documento debe ser presentado a Jhunior ([Encargado de Recursos Humanos](../../areas/personal/#))
++ Es RECOMENDABLE presentar una constancia que acredite su descanso médico. Este documento debe ser presentado a Jhunior (encargado de Recursos Humanos).
 
 Recuerde que **descanso por desgaste o salud mental** tambien es considerado descanso médico.
 

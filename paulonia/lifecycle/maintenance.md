@@ -39,7 +39,7 @@ Estos eventos pueden caer en cualquiera de estas 4 categorías de mantenimiento
 
 | Categoría     | Descripción   |
 | :-:             | -             |
-| **Perfectivo**<br />(Prioritario)   | Si desea mejorar su aplicación añadiendo nuevas funcionalidades o modificando las ya existentes, que recae en un alto grado de alteración del código fuente.*Tenga en cuenta que si una funcionalidad es demasiado grande o compleja, es recomendable iniciar una nueva fase de desarrollo y no de mantenimiento* |
+| **Perfectivo**<br />(Prioritario)   | Si desea mejorar su aplicación añadiendo nuevas funcionalidades o modificando las ya existentes, que recae en un alto grado de alteración del código fuente. *Tenga en cuenta que si una funcionalidad es demasiado grande o compleja, es recomendable iniciar una nueva fase de desarrollo y no de mantenimiento* |
 | **Emergencia**<br />(Crítico)    | Si se detecta un problema o error que impida el funcionamiento total o parcial de la aplicación y cuya atención deba ser inmediata por parte de Paulonia.|
 | **Adaptativo**<br />(Importante)    | Cuando se desee actualizar el sistema, servidores, paquetes, porciones de código u otras dependencias.|
 | **Preventivo**<br />(Moderado)    | Si se desea reducir la complejidad de la aplicación, así como cambios livianos que reduzcan la ocurrencia de errores futuros.|
@@ -77,7 +77,7 @@ Recuerde que existen varias áreas en Paulonia, y un evento a atender puede dema
 ##### 4. Validación, verificación y aceptación de pruebas
 Cada área de Paulonia tiene un proceso de prueba y aceptación ante cambios de su aplicación. Una vez diseñada y/o implementada la solución de su evento, esta pasa por un proceso de pruebas, simulaciones y control de calidad asegurando que responde a la solicitud de mantenimiento inicial. 
 
-Por ejemplo, en Paulonia Development ([Documento en progreso](https://paulonia.atlassian.net/browse/TOMENTOSA-1631)) se realiza un control de calidad de código, y desempeño de  su aplicación. En Paulonia Studio ([Documento en progreso](https://paulonia.atlassian.net/browse/TOMENTOSA-1632)) se asegura que la solución sea usable y corresponda a todo el branding de su aplicación y finalmente en [Paulonia Cloud](/{{site.handbooks_path}}/backend/procesos/mantenimiento) asegura la disponibilidad de su aplicación así como su escalabilidad y bienestar de servidores.
+Por ejemplo, en Paulonia Development ([Documento en progreso](https://paulonia.atlassian.net/browse/TOMENTOSA-1631)) se realiza un control de calidad de código, y desempeño de  su aplicación. En [Paulonia Studio](/{{site.handbooks_path}}/studios/processdesign/testing) se asegura que la solución sea usable y corresponda a todo el branding de su aplicación y finalmente en [Paulonia Cloud](/{{site.handbooks_path}}/backend/procesos/mantenimiento) asegura la disponibilidad de su aplicación así como su escalabilidad y bienestar de servidores.
 
 [¿Tiene preguntas?](../frequestions/#validaci%C3%B3n-verificaci%C3%B3n-y-aceptaci%C3%B3n-de-pruebas)
 
@@ -85,6 +85,6 @@ Por ejemplo, en Paulonia Development ([Documento en progreso](https://paulonia.a
 ¡Todo está listo!
 
 + Si los cambios demandan la generación de una nueva versión y APK, las horas destinadas a ello también se facturarán.
-+ Si los cambios demandan la actualización en tiendas, se coordinará con el área de Administración de tiendas para la actualización de contenido multimedia de cada tienda. Así mismo este proceso se hará bajo los acuerdos especificados en ([Documento en progreso](https://paulonia.atlassian.net/browse/TOMENTOSA-1633)).
++ Si los cambios demandan la actualización en tiendas, se coordinará con el área de Administración de tiendas para la actualización de contenido multimedia de cada tienda. Así mismo este proceso se hará bajo los acuerdos especificados en la sección de ([App Store Management](/{{site.handbooks_path}}/studios/processdesign/plus)).
 
 [¿Tiene preguntas?](../frequestions/#entrega-y-despliegue)
