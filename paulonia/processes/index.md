@@ -2,6 +2,9 @@
 title: Estamos para ayudarte...
 lead: true
 pagination:
+    previous:
+        link: ../areas/personal
+        name: Personal
     next:
         link: ./scrum
         name: SCRUM

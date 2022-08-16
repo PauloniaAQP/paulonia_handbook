@@ -1,6 +1,9 @@
 ---
-title: Introducción
+title: Seguridad
 pagination:
+    previous:
+        link: ../processes/payment
+        name: Pagos
     next: 
         link: ./security
         name: Seguridad

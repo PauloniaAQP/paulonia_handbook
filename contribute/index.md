@@ -1,10 +1,6 @@
 ---
 title: Contribuir al Handbook
 lead: true
-quote:
-    content: Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without loosing something.
-    author: Richard Stallman
-    authorPosition: Free Software Foundation
 pagination:
     next:
         link: ./howToDocument
