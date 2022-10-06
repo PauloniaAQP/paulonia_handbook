@@ -2,8 +2,8 @@
 title: Seguridad
 pagination:
     previous:
-        link: ../processes/payment
-        name: Pagos
+        link: ../processes/financial
+        name: Finanzas
     next: 
         link: ./security
         name: Seguridad
