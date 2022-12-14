@@ -1,12 +1,12 @@
 ---
-title: Pagos
+title: Pagos de clientes
 pagination:
     previous:
         link: ../recruitmentleads
         name: Reclutamiento (Team leads)
     next:
-        link: ../../security/
-        name: Seguridad
+        link: ../financial
+        name: Finanzas
 ---
 
 Los pagos se realizan luego de la firma del contrato. Es importante leer todas las secciones antes de realizar cualquier depósito, debido a que para algunos montos se pueden aplicar detracciones (solo clientes Perú).
