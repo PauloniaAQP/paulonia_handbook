@@ -22,9 +22,9 @@ Kanban nos permite crear tareas para que puedan ser realizadas en cualquier mome
 - **Backlog:** Una tarea recién creada va a esta columna. Es un listado de tareas creadas que no tienen la prioridad o aún no han sido seleccionadas para ser realizadas.
 - **Selected:** Aquí van las tareas que han sido seleccionadas para ser realizadas.
 - **Recurring:** Son tareas que se hacen en diferentes periodos y no tienen un tiempo de fin definido. Ej. Realizar las boletas de pago mensuales.
-- **Task for the day:** Son tareas que han sido seleccionadas por el [Assignee](#assignee) para ser las que va a realizar a continuación on en el día.
-- **In progress:** Son las tareas que se están realizando actualmente.
-- **Waiting for:** Son las tareas bloqueadas. Una tarea puede estar bloqueada, por ejemplo, porque es necesaria la intervención de otra persona, es necesaria que se termine otra tarea, ha entrado otra tarea mucho más prioritaria, etc.
+- **Task for the day:** Son tareas que han sido seleccionadas por el [Assignee](#assignee) para ser las que va a realizar a continuación en el día.
+- **In progress:** Son las tareas que se están realizando actualmente. Una persona no debe tener más 3 tareas en esta columna.
+- **Waiting for:** Son las tareas bloqueadas. Una tarea puede estar bloqueada, por ejemplo, porque es necesaria la intervención de otra persona, es necesaria que se termine otra tarea, ha entrado otra tarea mucho más prioritaria, etc. Una persona no debe tener más de 3 tareas en esta columna. Si ese límite se alcanza, contacte con su [Team Lead](#team-lead) para ver como desbloquear tareas.
 - **Ready:** Son las tareas que han sido terminadas y están listas para ser revisadas por el [Reviewer](#reviewer) de la tarea.
 - **Done:** Son las tareas terminadas y aprobadas por el [Reviewer](#reviewer) de la tarea. Si es código, el Pull Request debe estar aprobado y mergeado.
 
@@ -57,10 +57,10 @@ Deben tener la siguiente estructura:
 ```
 - Kudos a Juan por ayudarme en un bug en una tarea de Shaka
 
-- Kudos a Oscar por su gran avanze en Shaka.
+- Kudos a Oscar por su gran avance en Shaka.
 ```
 
-**Otras cosas (opcional):** Al final colocar cualquier ocurrencia que pueda tener la siguiente semana. Por ejemplo, vacaciones o reducción de horas (sólo para avisar a todos los equipos, esto ya debió de coordinarlo con recursos humanos), alguna festividad, runión o alguna cosa de la siguiente semana que quisiera recordarles a los equipos, o simplemente para decir “Nos vemos mañana!”
+**Otras cosas (opcional):** Al final colocar cualquier ocurrencia que pueda tener la siguiente semana. Por ejemplo, vacaciones o reducción de horas (sólo para avisar a todos los equipos, esto ya debió de coordinarlo con recursos humanos), alguna festividad, reunión o alguna cosa de la siguiente semana que quisiera recordarles a los equipos, o simplemente para decir “Nos vemos mañana!”
 
 ```
 La siguiente semana voy a estar de vacaciones los dias 16 y 17. Nos vemos mañana en la reunión chicos!
@@ -83,7 +83,7 @@ El reporte debe estar enfocado en lo que se hizo en la semana, el porqué se hiz
 Luego de que todos los equipos hayan dado su reporte, se pasa a revisar el tablero general. Aquí se discuten los objetivos de la siguiente semana y las tareas que cada equipo debe realizar para poder cumplirlos. Se crean dichas tareas o se sacan del backlog para que sean seleccionadas.
 
 
-### Concideraciones
+### Consideraciones
 
 - Se debe escoger a una persona que guie la reunión.
 - El tiempo máximo de la reunión es de 1 hora.
