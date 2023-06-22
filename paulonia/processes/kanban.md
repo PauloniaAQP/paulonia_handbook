@@ -22,7 +22,6 @@ Kanban nos permite crear tareas para que puedan ser realizadas en cualquier mome
 - **Backlog:** Una tarea recién creada va a esta columna. Es un listado de tareas creadas que no tienen la prioridad o aún no han sido seleccionadas para ser realizadas.
 - **Selected:** Aquí van las tareas que han sido seleccionadas para ser realizadas.
 - **Recurring:** Son tareas que se hacen en diferentes periodos y no tienen un tiempo de fin definido. Ej. Realizar las boletas de pago mensuales.
-- **Task for the day:** Son tareas que han sido seleccionadas por el [Assignee](#assignee) para ser las que va a realizar a continuación en el día.
 - **In progress:** Son las tareas que se están realizando actualmente. Una persona no debe tener más 3 tareas en esta columna.
 - **Waiting for:** Son las tareas bloqueadas. Una tarea puede estar bloqueada, por ejemplo, porque es necesaria la intervención de otra persona, es necesaria que se termine otra tarea, ha entrado otra tarea mucho más prioritaria, etc. Una persona no debe tener más de 3 tareas en esta columna. Si ese límite se alcanza, contacte con su [Team Lead](#team-lead) para ver como desbloquear tareas.
 - **Ready:** Son las tareas que han sido terminadas y están listas para ser revisadas por el [Reviewer](#reviewer) de la tarea.
