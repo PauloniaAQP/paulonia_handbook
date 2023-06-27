@@ -6,8 +6,8 @@ pagination:
         link: ../areas/personal
         name: Personal
     next:
-        link: ./scrum
-        name: SCRUM
+        link: ./kanban
+        name: Kanban
 ---
 
 En Paulonia estamos mejorando constantemente, esto significa que nuestros procesos se van actualizando hasta llegar a su versión más óptima. Estamos seguros que cuando aparezcan nuevos problemas, Paulonia se encargará de encontrar una solución, definiendo un proceso de la mano de todos sus colaboradores.

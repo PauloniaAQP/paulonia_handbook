@@ -9,8 +9,8 @@ pagination:
         link: ../recruitment
         name: Reclutamiento
     previous:
-        link: ../scrum
-        name: SCRUM
+        link: ../kanban
+        name: Kanban
 ---
 
 ## Introducción
